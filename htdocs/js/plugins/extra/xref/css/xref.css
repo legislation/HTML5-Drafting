@@ -1,0 +1,26 @@
+/* 
+    Document   : xref
+    Created on : 08-Aug-2014, 15:51:23
+    Author     : whiter01
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.aloha-icon-xref { background: url(../img/button.png) no-repeat 0px 0px !important; }
+
+.aloha-xref p, .aloha-xref pre,
+.aloha-xref h1, .aloha-xref h2,
+.aloha-xref h3, .aloha-xref h4,
+.aloha-xref h5, .aloha-xref h6,
+.aloha-xref blockquote, 
+.aloha-xref ol, .aloha-xref ul, 
+.aloha-xref div, .aloha-xref dl, 
+.aloha-xref dt, .aloha-xref dd, 
+.aloha-xref td, .aloha-xref th, 
+.aloha-xref table, .aloha-xref caption {
+  background: white no-repeat 2px 2px;
+  padding: 8px 5px 5px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  min-height: 1em;
+}

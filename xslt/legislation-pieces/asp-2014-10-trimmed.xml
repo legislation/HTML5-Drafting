@@ -1,0 +1,2031 @@
+<Primary>
+	<PrimaryPrelims DocumentURI="http://www.legislation.gov.uk/asp/2014/10/introduction/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/introduction">
+		<Title>Tribunals (Scotland) Act 2014</Title>
+		<Number><!--2014 asp 10--></Number>
+		<LongTitle>An Act of the Scottish Parliament to establish the First-tier Tribunal for Scotland and the Upper Tribunal for Scotland; and for connected purposes.</LongTitle>
+		<!--DateOfEnactment>
+			<DateText>The Bill for this Act of the Scottish Parliament was passed by the Parliament on 11th March 2014 and received Royal Assent on 15th April 2014</DateText>
+		</DateOfEnactment-->
+		<!--PrimaryPreamble>
+			<EnactingTextOmitted/>
+		</PrimaryPreamble-->
+	</PrimaryPrelims>
+	<Body DocumentURI="http://www.legislation.gov.uk/asp/2014/10/body/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/body" NumberOfProvisions="84">
+		<Part DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1" NumberOfProvisions="12" id="part-1">
+			<Number>PART 1</Number>
+			<Title>The Scottish Tribunals</Title>
+			<Chapter DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/1" NumberOfProvisions="5"
+				id="part-1-chapter-1">
+				<Number>CHAPTER 1</Number>
+				<Title>Establishment and leadership</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/1/crossheading/establishment-and-headship-etc/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/1/crossheading/establishment-and-headship-etc" NumberOfProvisions="3"
+					id="part-1-chapter-1-crossheading-establishment-and-headship-etc">
+					<Title>Establishment and headship <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation></Title>
+					<P1group>
+						<Title>Establishment of the Tribunals</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1" id="section-1">
+							<Pnumber PuncAfter="">1</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/1" id="section-1-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>There are established two tribunals to be known as—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/1/a" id="section-1-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the First-tier Tribunal for Scotland,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/1/b" id="section-1-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the Upper Tribunal for Scotland.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/2" id="section-1-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>The Tribunals mentioned in subsection (1) are referred to in this Act—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/2/a" id="section-1-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>respectively as—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/2/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/2/a/i" id="section-1-2-a-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>the First-tier Tribunal,</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/2/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/2/a/ii" id="section-1-2-a-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>the Upper Tribunal,</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/2/b" id="section-1-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>collectively as the Scottish Tribunals.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/3" id="section-1-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>The constitution, operation and administration of the Scottish Tribunals are as provided for by or under this Act or another Act.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1/4" id="section-1-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>The jurisdiction, powers and other functions of the Scottish Tribunals are as conferred by or under this Act or another Act.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Head of the Tribunals</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/2" id="section-2">
+							<Pnumber PuncAfter="">2</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/2/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/2/1" id="section-2-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The Lord President is the Head of the Scottish Tribunals.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/2/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/2/2" id="section-2-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>In that capacity, the Lord President has the functions exercisable by him or her by virtue of this Act.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Upholding independence</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3" id="section-3">
+							<Pnumber PuncAfter="">3</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1" id="section-3-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The following persons must uphold the independence of the members of the Scottish Tribunals—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/a" id="section-3-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the First Minister,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/b" id="section-3-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the Lord Advocate,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/c/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/c" id="section-3-1-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>the Scottish Ministers,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/d/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/d" id="section-3-1-d">
+											<Pnumber>d</Pnumber>
+											<P3para>
+												<Text>members of the Scottish Parliament,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/e/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/e" id="section-3-1-e">
+											<Pnumber>e</Pnumber>
+											<P3para>
+												<Text>all other persons with responsibility for matters relating to—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/e/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/e/i" id="section-3-1-e-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>the members of the Scottish Tribunals, or</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/1/e/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/1/e/ii" id="section-3-1-e-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>the administration of justice,</Text>
+													</P4para>
+												</P4>
+												<Text>where that responsibility is to be discharged only in or as regards Scotland.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/2" id="section-3-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>In particular, the First Minister, the Lord Advocate and the Scottish Ministers—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/2/a" id="section-3-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>must not seek to influence particular decisions of the members of the Scottish Tribunals through any special access to the members, and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3/2/b" id="section-3-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>must have regard to the need for the members to have the support necessary to enable them to carry out their functions.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/1/crossheading/president-of-the-tribunals/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/1/crossheading/president-of-the-tribunals" NumberOfProvisions="2"
+					id="part-1-chapter-1-crossheading-president-of-the-tribunals">
+					<Title>President of the Tribunals</Title>
+					<P1group>
+						<Title>Assignment to office</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4" id="section-4">
+							<Pnumber PuncAfter="">4</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/1" id="section-4-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>There is established the office to be known as that of President of the Scottish Tribunals.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/2" id="section-4-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>It is for the Lord President to assign a person to that office.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/3" id="section-4-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>An assignment of a person to that office continues for as long as the Lord President considers appropriate.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/4" id="section-4-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>The Lord President may nominate a Vice-President of the Upper Tribunal to act temporarily in that office—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/4/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/4/a" id="section-4-4-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>if a person assigned to that office is for the time being unable to act in it, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/4/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/4/b" id="section-4-4-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>pending an assignment of a person to that office.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4/5/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4/5" id="section-4-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>A person assigned to that office under subsection (2) or nominated to act in it under subsection (4) must be a judge of the Court of Session (but may not be a temporary
+											judge).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Functions of office</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/5/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/5" id="section-5">
+							<Pnumber PuncAfter="">5</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/5/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/5/1" id="section-5-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Under the headship of the Lord President, the President of Tribunals is the senior member of the Scottish Tribunals.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/5/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/5/2" id="section-5-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>The President of Tribunals has the functions exercisable by him or her by virtue of this Act.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/5/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/5/3" id="section-5-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>In this Act, a reference to the President of Tribunals is to the President of the Scottish Tribunals (and a reference to the office of President of Tribunals is to be read
+											accordingly).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Chapter>
+			<Chapter DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2" NumberOfProvisions="7"
+				id="part-1-chapter-2">
+				<Number>CHAPTER 2</Number>
+				<Title>Overarching responsibilities</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/crossheading/head-of-the-tribunals/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2/crossheading/head-of-the-tribunals" NumberOfProvisions="4" id="part-1-chapter-2-crossheading-head-of-the-tribunals">
+					<Title>Head of the Tribunals</Title>
+					<P1group>
+						<Title>Representation of interests</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/6/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/6" id="section-6">
+							<Pnumber PuncAfter="">6</Pnumber>
+							<P1para>
+								<Text>The Lord President is responsible for—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/6/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/6/a" id="section-6-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>representing the views of the membership of the Scottish Tribunals to—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/6/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/6/a/i" id="section-6-a-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>the Scottish Ministers, and </Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/6/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/6/a/ii" id="section-6-a-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>the Scottish Parliament,</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/6/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/6/b" id="section-6-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>laying before the Scottish Parliament written representations on matters that appear to the Lord President to be of importance in relation to the Scottish Tribunals
+											(including as to the administration of justice).</Text>
+									</P3para>
+								</P3>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Business arrangements</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/7/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/7" id="section-7">
+							<Pnumber PuncAfter="">7</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/7/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/7/1" id="section-7-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The Lord President is responsible for making and maintaining appropriate arrangements for securing the efficient disposal of business in the Scottish Tribunals.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/7/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/7/2" id="section-7-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>The Lord President is responsible for ensuring that appropriate arrangements are made and maintained as to the welfare of the members of the Scottish Tribunals.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Delegation of functions</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8" id="section-8">
+							<Pnumber PuncAfter="">8</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8/1" id="section-8-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The Lord President may delegate to the President of Tribunals the exercise of any of the functions mentioned in subsection (2).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8/2" id="section-8-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>That is, the functions exercisable by the Lord President by virtue of—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8/2/a" id="section-8-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>section 7(1) or (2), </Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8/2/b" id="section-8-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>section 33(1) or (2), or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8/2/c/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8/2/c" id="section-8-2-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>section 34(1) or (2).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Directions on functions</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/9/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/9" id="section-9">
+							<Pnumber PuncAfter="">9</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/9/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/9/1" id="section-9-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The Lord President may give directions to the President of Tribunals as to the exercise of the functions exercisable by the President of Tribunals by virtue of this
+											Act.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/9/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/9/2" id="section-9-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Directions under subsection (1) may—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/9/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/9/2/a" id="section-9-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>vary or revoke earlier such directions,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/9/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/9/2/b" id="section-9-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>relate to particular functions or functions generally.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/crossheading/regulations-by-ministers/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2/crossheading/regulations-by-ministers" NumberOfProvisions="2" id="part-1-chapter-2-crossheading-regulations-by-ministers">
+					<Title>Regulations by Ministers</Title>
+					<P1group>
+						<Title>Authority under regulations</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10" id="section-10">
+							<Pnumber PuncAfter="">10</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/1" id="section-10-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Regulations under section 20(2) or 23(2) may—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/1/a" id="section-10-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>delegate to the Lord President authority to make arrangements of the kind to which that section relates,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/1/b" id="section-10-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>include provision relying on the effect of Tribunal Rules.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/2" id="section-10-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Regulations under section 38(1), 40(1) or 41(1) may—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/2/a" id="section-10-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>delegate to the President of Tribunals authority to determine the things to which that section relates,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/2/b" id="section-10-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>include provision relying on the effect of Tribunal Rules.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10/3" id="section-10-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Delegation of authority under subsection (1) or (2) is subject to such provision about the exercise or sub-delegation of the authority as may be made in the regulations
+											referred to in that subsection.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Consultation on regulations</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/11/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/11" id="section-11">
+							<Pnumber PuncAfter="">11</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/11/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/11/1" id="section-11-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Before making regulations under section 20(2) or 23(2), the Scottish Ministers must—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/11/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/11/1/a" id="section-11-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>obtain the Lord President’s approval,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/11/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/11/1/b" id="section-11-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>consult such other persons as they consider appropriate.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/11/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/11/2" id="section-11-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Before making regulations under section 38(1), 40(1) or 41(1), the Scottish Ministers must consult the President of Tribunals.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/crossheading/guiding-principle/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2/crossheading/guiding-principle" NumberOfProvisions="1" id="part-1-chapter-2-crossheading-guiding-principle">
+					<Title>Guiding principle</Title>
+					<P1group>
+						<Title>Principle to be observed</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12" id="section-12">
+							<Pnumber PuncAfter="">12</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12/1" id="section-12-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>In exercising their regulation-making functions under this Act, the Scottish Ministers must have regard to the principle below.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12/2" id="section-12-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>In exercising their leadership functions under this Act, the Lord President and the President of Tribunals must have regard to the principle below.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12/3" id="section-12-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>The principle is the need for proceedings before the Scottish Tribunals—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12/3/a" id="section-12-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>to be accessible and fair, and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12/3/b" id="section-12-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>to be handled quickly and effectively.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Chapter>
+		</Part>
+		<Part DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2" NumberOfProvisions="14" id="part-2">
+			<Number>PART 2</Number>
+			<Title>Organisational arrangements</Title>
+			<Chapter DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/1" NumberOfProvisions="7"
+				id="part-2-chapter-1">
+				<Number>CHAPTER 1</Number>
+				<Title>Membership types</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/1/crossheading/overview-and-main-types/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/1/crossheading/overview-and-main-types" NumberOfProvisions="4" id="part-2-chapter-1-crossheading-overview-and-main-types">
+					<Title>Overview and main types</Title>
+					<P1group>
+						<Title>Overview of membership</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13" id="section-13">
+							<Pnumber PuncAfter="">13</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13/1" id="section-13-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Each of the First-tier Tribunal and the Upper Tribunal is to consist of its ordinary, legal and judicial members.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13/2" id="section-13-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Any type of member of the First-tier Tribunal or the Upper Tribunal is not, merely by reason of having that type of membership of the Tribunal, precluded from having any type
+											of membership of the other Tribunal.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13/3" id="section-13-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>In this Act, the references to the members of the Scottish Tribunals are to—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13/3/a" id="section-13-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the ordinary and legal members of either or both of the Tribunals by virtue of sections 15 and 16, and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13/3/b" id="section-13-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the judicial members of either or both of the Tribunals by virtue of section 17 as read with section 19.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Capacity of members</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14" id="section-14">
+							<Pnumber PuncAfter="">14</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/1" id="section-14-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Membership of the Scottish Tribunals as an ordinary or legal member of the Tribunals has the effect of granting such a member judicial status and capacity for the purpose for
+											which this section makes provision.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/2" id="section-14-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>For avoidance of doubt—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/2/a" id="section-14-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a judicial member of the Scottish Tribunals has judicial status and capacity for the purpose for which this section makes provision by reason of holding judicial office,
+												</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/2/b" id="section-14-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>an extra judge derives judicial status and capacity in relation to the Upper Tribunal for the purpose for which this section makes provision from authorisation to act as
+													mentioned in section 18(4).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/3" id="section-14-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>This section makes provision—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/3/a" id="section-14-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>in the case of an ordinary, legal or judicial member of the Scottish Tribunals, for the purpose of holding the position of and acting as such a member,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14/3/b" id="section-14-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>in the case of an extra judge of the Upper Tribunal, for the purpose of holding that position and acting as mentioned in section 18(4).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>First-tier members</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15" id="section-15">
+							<Pnumber PuncAfter="">15</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/1" id="section-15-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>A person is an ordinary member of the First-tier Tribunal if the person is that type of member of the First-tier Tribunal through—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/1/a" id="section-15-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>transfer-in as such by virtue of section 29(b), or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/1/b" id="section-15-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>appointment as such by virtue of section 32(1).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/2" id="section-15-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>A person is a legal member of the First-tier Tribunal if the person is—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/2/a" id="section-15-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>that type of member of the First-tier Tribunal through—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/2/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/2/a/i" id="section-15-2-a-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>transfer-in as such by virtue of section 29(b), or</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/2/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/2/a/ii"
+													id="section-15-2-a-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>appointment as such by virtue of section 32(1), or</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/2/b" id="section-15-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>however holding the position, a Chamber President or Deputy Chamber President in the First-tier Tribunal.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15/3" id="section-15-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Despite subsection (2)(b), a person assigned as a Temporary Chamber President in the First-tier Tribunal, if a judicial member of the Tribunal, remains such a member of the
+											Tribunal.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Upper members</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16" id="section-16">
+							<Pnumber PuncAfter="">16</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/1" id="section-16-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>A person is an ordinary member of the Upper Tribunal if the person is that type of member of the Upper Tribunal through—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/1/a" id="section-16-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>transfer-in as such by virtue of section 29(b), or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/1/b" id="section-16-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>appointment as such by virtue of section 32(3).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/2" id="section-16-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>A person is a legal member of the Upper Tribunal if the person is—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/2/a" id="section-16-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>that type of member of the Upper Tribunal through—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/2/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/2/a/i" id="section-16-2-a-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>transfer-in as such by virtue of section 29(b), or</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/2/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/2/a/ii"
+													id="section-16-2-a-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>appointment as such by virtue of section 32(3),</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/2/b" id="section-16-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>however holding the position, a Chamber President in the First-tier Tribunal except a Temporary Chamber President, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/2/c/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/2/c" id="section-16-2-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>however holding the position, a Vice-President of the Upper Tribunal.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/3" id="section-16-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Despite subsection (2)(c)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/3/a" id="section-16-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a person assigned as a Vice-President of the Upper Tribunal under section 25(1) or (2) remains a judicial member of the Tribunal,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16/3/b" id="section-16-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>a person assigned as a Temporary Vice-President of the Upper Tribunal, if a judicial member of the Tribunal, remains such a member of the Tribunal.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/1/crossheading/judiciary-eligible-to-sit/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/1/crossheading/judiciary-eligible-to-sit" NumberOfProvisions="3"
+					id="part-2-chapter-1-crossheading-judiciary-eligible-to-sit">
+					<Title>Judiciary eligible to sit</Title>
+					<P1group>
+						<Title>Sheriffs and judges</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17" id="section-17">
+							<Pnumber PuncAfter="">17</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/1" id="section-17-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>By reason of holding judicial office, a person is eligible to act as a member of the First-tier Tribunal if the person is a sheriff (including a part-time sheriff).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/2" id="section-17-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>By reason of holding judicial office, a person is eligible to act as a member of the Upper Tribunal if the person is—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/2/a" id="section-17-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>apart from the Lord President and the President of Tribunals, a judge of the Court of Session (including a temporary judge), </Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/2/b" id="section-17-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the Chairman of the Scottish Land Court, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/2/c/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/2/c" id="section-17-2-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>a sheriff (except a part-time sheriff).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/3" id="section-17-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>A sheriff may act as a member of—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/3/a" id="section-17-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the First-tier Tribunal, or </Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/3/b" id="section-17-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the Upper Tribunal,</Text>
+											</P3para>
+										</P3>
+										<Text>only if authorised to do so by the President of Tribunals.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/4" id="section-17-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>A judge of the Court of Session or the Chairman of the Scottish Land Court may act as a member of the Upper Tribunal only if authorised to do so by the President of Tribunals
+											(but see next instead for the Lord President and the President of Tribunals).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/5/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/5" id="section-17-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>By reason of holding office within the Scottish Tribunals, each of the Lord President and the President of Tribunals is a member of the Upper Tribunal and needs no further
+											authorisation to act as such.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/6/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/6" id="section-17-6">
+									<Pnumber>6</Pnumber>
+									<P2para>
+										<Text>An authorisation for the purpose of subsection (3)(a) or (b) or (4)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/6/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/6/a" id="section-17-6-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>requires—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/6/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/6/a/i" id="section-17-6-a-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>the Lord President’s approval (including as to the person to be authorised), and</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/6/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/6/a/ii"
+													id="section-17-6-a-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>the agreement of the person concerned,</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/6/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/6/b" id="section-17-6-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>in the case of a sheriff (apart from a sheriff principal), also requires the concurrence of the relevant sheriff principal.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17/7/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17/7" id="section-17-7">
+									<Pnumber>7</Pnumber>
+									<P2para>
+										<Text>An authorisation for the purpose of subsection (3)(a) or (b) or (4) remains in effect until such time as the President of Tribunals may determine (with the same approval,
+											agreement and concurrence as is referred to in subsection (6)).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Authorisation of others</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18" id="section-18">
+							<Pnumber PuncAfter="">18</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/1" id="section-18-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>If requested to do so by the President of Tribunals, the Scottish Ministers may issue a temporary authorisation for a person falling within subsection (2) to assist in the
+											disposal of the business of the Upper Tribunal.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/2" id="section-18-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>A person falls within this subsection if the person is—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/2/a" id="section-18-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a former—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/2/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/2/a/i" id="section-18-2-a-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>judge of the Court of Session (including temporary judge),</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/2/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/2/a/ii"
+													id="section-18-2-a-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>Chairman of the Scottish Land Court, or</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/2/a/iii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/2/a/iii"
+													id="section-18-2-a-iii">
+													<Pnumber>iii</Pnumber>
+													<P4para>
+														<Text>sheriff (except part-time sheriff), or</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/2/b" id="section-18-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>a judge of a court or tribunal in a country or territory outwith Scotland (whether or not another part of the United Kingdom).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/3" id="section-18-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Any request for the purpose of subsection (1) may not be made without—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/3/a" id="section-18-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the Lord President’s approval, and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/3/b" id="section-18-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the agreement of the person concerned. </Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/4" id="section-18-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>An authorisation under subsection (1) is for the person concerned to act as if a judicial member of the Upper Tribunal during the period for which it is issued.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/5/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/5" id="section-18-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>The period mentioned in subsection (4)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/5/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/5/a" id="section-18-5-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>requires the same approval and agreement as is referred to in subsection (3), and </Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/5/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/5/b" id="section-18-5-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>may be extended by the Scottish Ministers (with such approval and agreement).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/6/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/6" id="section-18-6">
+									<Pnumber>6</Pnumber>
+									<P2para>
+										<Text>The Scottish Ministers may make payments of sums with respect to any time spent by a person while acting as mentioned in subsection (4) by virtue of authorisation under
+											subsection (1).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/7/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/7" id="section-18-7">
+									<Pnumber>7</Pnumber>
+									<P2para>
+										<Text>An authorisation under subsection (1) may not be issued if the person concerned—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/7/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/7/a" id="section-18-7-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>is aged 75 years or over, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/7/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/7/b" id="section-18-7-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>has been removed from judicial office because of unfitness by reason of inability, neglect of duty or misbehaviour (or is for the time being suspended from such office in
+													connection with an investigation into the question of such unfitness).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/8/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/8" id="section-18-8">
+									<Pnumber>8</Pnumber>
+									<P2para>
+										<Text>In the case of a person mentioned in subsection (2)(b)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/8/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/8/a" id="section-18-8-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>subsections (1) and (5) are subject to such further arrangements as the Scottish Ministers may make with a governmental or other body in the person’s country or territory
+													for the purposes of those subsections,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/8/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/8/b" id="section-18-8-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>if the person has not previously taken the required oaths, the person must take them in the presence of the President of Tribunals before acting as mentioned in
+													subsection (4).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/9/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/9" id="section-18-9">
+									<Pnumber>9</Pnumber>
+									<P2para>
+										<Text>In addition—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/9/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/9/a" id="section-18-9-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the previous taking by a person of the required oaths counts (so far as necessary) as if it were the taking of them in connection with acting as mentioned in subsection
+													(4),</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/9/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/9/b" id="section-18-9-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>section 3 applies in relation to a person who is authorised to act as mentioned in subsection (4)—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/9/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/9/b/i" id="section-18-9-b-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>as it does in relation to the members of the Scottish Tribunals, and</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/9/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/9/b/ii"
+													id="section-18-9-b-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>during the period for which the relevant authorisation is issued.</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18/10/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18/10" id="section-18-10">
+									<Pnumber>10</Pnumber>
+									<P2para>
+										<Text>In this section, “the required oaths” means the oath of allegiance and the judicial oath as set out in the Promissory Oaths Act 1868.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Judicial membership</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19" id="section-19">
+							<Pnumber PuncAfter="">19</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19/1" id="section-19-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>In this Act, a reference to a judicial member of the First-tier Tribunal is to a sheriff who is authorised for the purpose of section 17(3)(a).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19/2" id="section-19-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>In this Act, a reference to a judicial member of the Upper Tribunal is to—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19/2/a" id="section-19-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the Lord President or the President of Tribunals, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19/2/b" id="section-19-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>a person who is authorised for the purpose of section 17(3)(b) or (4).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19/3" id="section-19-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>A reference in this Act to a judicial member of the Upper Tribunal does not include an extra judge even where authorised to act as mentioned in section 18(4).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19/4" id="section-19-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>In this Act, a reference to an extra judge in relation to the Upper Tribunal is to a person falling within section 18(2) (as read with section 18(4)).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Chapter>
+			<Chapter DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/2" NumberOfProvisions="7"
+				id="part-2-chapter-2">
+				<Number>CHAPTER 2</Number>
+				<Title>Internal structure</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/2/crossheading/structure-of-firsttier-tribunal/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/2/crossheading/structure-of-firsttier-tribunal" NumberOfProvisions="3"
+					id="part-2-chapter-2-crossheading-structure-of-firsttier-tribunal">
+					<Title>Structure of First-tier Tribunal</Title>
+					<P1group>
+						<Title>Chambers in the Tribunal</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20" id="section-20">
+							<Pnumber PuncAfter="">20</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20/1" id="section-20-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The First-tier Tribunal is to be organised into a number of chambers, having regard to—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20/1/a" id="section-20-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the different subject-matters falling within the Tribunal’s jurisdiction, and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20/1/b" id="section-20-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>any other factors relevant in relation to the exercise of the Tribunal’s functions.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20/2" id="section-20-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Accordingly, the Scottish Ministers may by regulations make provision for and in connection with—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20/2/a" id="section-20-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the organisation of the Tribunal as required by subsection (1),</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20/2/b" id="section-20-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the allocation of the Tribunal’s functions between the chambers.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Chamber Presidents</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21" id="section-21">
+							<Pnumber PuncAfter="">21</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/1" id="section-21-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Each chamber of the First-tier Tribunal is to have—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/1/a" id="section-21-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a single Chamber President to preside over the chamber, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/1/b" id="section-21-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>two Chamber Presidents to preside over the chamber.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/2" id="section-21-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>A Chamber President may not preside over more than one chamber of the Tribunal at the same time.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/3" id="section-21-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>In this Act—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/3/a" id="section-21-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a reference to a Chamber President in the First-tier Tribunal is to a Chamber President of a chamber of the Tribunal,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21/3/b" id="section-21-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>where a chamber of the Tribunal has two Chamber Presidents, a reference to a Chamber President of such a chamber is to either or both of them (as the context
+													requires).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Appointment to post</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22" id="section-22">
+							<Pnumber PuncAfter="">22</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22/1" id="section-22-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>It is for the Scottish Ministers to make an appointment of a Chamber President to that position.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22/2" id="section-22-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Before making an appointment under subsection (1), the Scottish Ministers must consult the Lord President (including as to the person to be appointed).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22/3" id="section-22-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>A person is eligible for appointment under subsection (1) only if the person is—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22/3/a" id="section-22-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a legal member of the Upper Tribunal, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22/3/b" id="section-22-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>if not falling within paragraph (a), eligible to be appointed as such a member of the Tribunal (whether or not already any type of member of the First-tier or Upper
+													Tribunal).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22/4" id="section-22-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>An appointment made under subsection (1) is for the Chamber President to preside over a particular chamber of the Tribunal.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/2/crossheading/structure-of-upper-tribunal/enacted"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/2/crossheading/structure-of-upper-tribunal" NumberOfProvisions="4"
+					id="part-2-chapter-2-crossheading-structure-of-upper-tribunal">
+					<Title>Structure of Upper Tribunal</Title>
+					<P1group>
+						<Title>Divisions of the Tribunal</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23" id="section-23">
+							<Pnumber PuncAfter="">23</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23/1" id="section-23-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The Upper Tribunal is to be organised into a number of divisions, having regard to—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23/1/a" id="section-23-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the different subject-matters falling within the Tribunal’s jurisdiction, and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23/1/b" id="section-23-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>any other factors relevant in relation to the exercise of the Tribunal’s functions.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23/2" id="section-23-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Accordingly, the Scottish Ministers may by regulations make provision for and in connection with—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23/2/a" id="section-23-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the organisation of the Tribunal as required by subsection (1),</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23/2/b" id="section-23-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the allocation of the Tribunal’s functions between the divisions.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Vice-Presidents</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24" id="section-24">
+							<Pnumber PuncAfter="">24</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/1" id="section-24-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Each division of the Upper Tribunal is to have—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/1/a" id="section-24-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a single Vice-President to preside over the division, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/1/b" id="section-24-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>two Vice-Presidents to preside over the division.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/2" id="section-24-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>A Vice-President may not preside over more than one division of the Tribunal at the same time.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/3" id="section-24-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Subsections (1) and (2) are subject to section 25(1)(b).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/4" id="section-24-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>In this Act—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/4/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/4/a" id="section-24-4-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a reference to a Vice-President of the Upper Tribunal is to a Vice-President of a division of the Tribunal, </Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24/4/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24/4/b" id="section-24-4-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>where a division of the Tribunal has two Vice-Presidents, a reference to a Vice-President of such a division is to either or both of them (as the context
+													requires).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Assignment to post</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25" id="section-25">
+							<Pnumber PuncAfter="">25</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/1" id="section-25-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The President of Tribunals may assign himself or herself—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/1/a" id="section-25-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>as a Vice-President of the Upper Tribunal,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/1/b" id="section-25-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>to preside over one or more than one division of the Tribunal.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/2" id="section-25-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Apart from the Lord President, any other judicial member of the Upper Tribunal may be assigned by the President of Tribunals—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/2/a" id="section-25-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>as a Vice-President of the Tribunal,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/2/b" id="section-25-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>to preside over a particular division of the Tribunal.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/3" id="section-25-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Assignment under subsection (1)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/3/a" id="section-25-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>remains in effect until such time as the President of Tribunals may determine,</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/3/b" id="section-25-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>does not affect the exercise by the President of Tribunals of the functions arising in that capacity.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/4" id="section-25-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Assignment under subsection (2)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/4/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/4/a" id="section-25-4-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>requires—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/4/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/4/a/i" id="section-25-4-a-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>the Lord President’s approval (including as to the judicial member to be assigned),</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/4/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/4/a/ii"
+													id="section-25-4-a-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>the assignee’s agreement,</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/4/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/4/b" id="section-25-4-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>remains in effect until such time as the President of Tribunals may determine (with such approval and agreement),</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25/4/c/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25/4/c" id="section-25-4-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>does not affect the exercise by the assignee of any other functions as respects the Scottish Tribunals.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>Appointment to post</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26" id="section-26">
+							<Pnumber PuncAfter="">26</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26/1" id="section-26-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>If requested to do so by the President of Tribunals, the Scottish Ministers may appoint a person as a Vice-President of the Upper Tribunal.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26/2" id="section-26-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Before making an appointment under subsection (1), the Scottish Ministers must consult the Lord President (including as to the person to be appointed).</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26/3" id="section-26-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>A person is eligible for appointment as a Vice-President only if the person is—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26/3/a" id="section-26-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>a legal member of the Upper Tribunal, or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26/3/b" id="section-26-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>if not falling within paragraph (a), eligible to be appointed as such a member of the Tribunal (whether or not already any type of member of the First-tier or Upper
+													Tribunal).</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26/4" id="section-26-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>An appointment made under subsection (1) is for the Vice-President to preside over a particular division of the Tribunal.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Chapter>
+		</Part>
+	</Body>
+	<Schedules>
+		<Schedule DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1" NumberOfProvisions="13" id="schedule-1">
+			<Number>SCHEDULE 1</Number>
+			<TitleBlock>
+				<Title>Listed tribunals</Title>
+			</TitleBlock>
+			<Reference>(introduced by section 27)</Reference>
+			<ScheduleBody>
+				<Part DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/part/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/part/1" NumberOfProvisions="11"
+					id="schedule-1-part-1">
+					<Number>PART 1</Number>
+					<Title>List of tribunals</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/1"
+						id="schedule-1-paragraph-1">
+						<Pnumber PuncAfter="">1</Pnumber>
+						<P1para>
+							<Text>An Additional Support Needs Tribunal</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/2"
+						id="schedule-1-paragraph-2">
+						<Pnumber PuncAfter="">2</Pnumber>
+						<P1para>
+							<Text>A Scottish Charity Appeals Panel</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/3"
+						id="schedule-1-paragraph-3">
+						<Pnumber PuncAfter="">3</Pnumber>
+						<P1para>
+							<Text>The Crofting Commission</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/4"
+						id="schedule-1-paragraph-4">
+						<Pnumber PuncAfter="">4</Pnumber>
+						<P1para>
+							<Text>An Education Appeal Committee</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/5/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/5"
+						id="schedule-1-paragraph-5">
+						<Pnumber PuncAfter="">5</Pnumber>
+						<P1para>
+							<Text>In relation to certain Housing and other Acts—</Text>
+							<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/5/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/5/a"
+								id="schedule-1-paragraph-5-a">
+								<Pnumber>a</Pnumber>
+								<P3para>
+									<Text>a private rented housing committee,</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/5/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/5/b"
+								id="schedule-1-paragraph-5-b">
+								<Pnumber>b</Pnumber>
+								<P3para>
+									<Text>a homeowner housing committee</Text>
+								</P3para>
+							</P3>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/6/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/6"
+						id="schedule-1-paragraph-6">
+						<Pnumber PuncAfter="">6</Pnumber>
+						<P1para>
+							<Text>The Lands Tribunal for Scotland</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/7/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/7"
+						id="schedule-1-paragraph-7">
+						<Pnumber PuncAfter="">7</Pnumber>
+						<P1para>
+							<Text>The Mental Health Tribunal for Scotland</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/8/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/8"
+						id="schedule-1-paragraph-8">
+						<Pnumber PuncAfter="">8</Pnumber>
+						<P1para>
+							<Text>In relation to the National Health Service—</Text>
+							<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/8/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/8/a"
+								id="schedule-1-paragraph-8-a">
+								<Pnumber>a</Pnumber>
+								<P3para>
+									<Text>the <Abbreviation Expansion="National Health Service"><Acronym Expansion="National Health Service">NHS</Acronym></Abbreviation> National Appeal Panel,</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/8/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/8/b"
+								id="schedule-1-paragraph-8-b">
+								<Pnumber>b</Pnumber>
+								<P3para>
+									<Text>the NHS Tribunal</Text>
+								</P3para>
+							</P3>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/9/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/9"
+						id="schedule-1-paragraph-9">
+						<Pnumber PuncAfter="">9</Pnumber>
+						<P1para>
+							<Text>A Parking Adjudicator</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/10/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/10"
+						id="schedule-1-paragraph-10">
+						<Pnumber PuncAfter="">10</Pnumber>
+						<P1para>
+							<Text>A Police Appeals Tribunal</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/11/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/11"
+						id="schedule-1-paragraph-11">
+						<Pnumber PuncAfter="">11</Pnumber>
+						<P1para>
+							<Text>A Valuation Appeal Committee.</Text>
+						</P1para>
+					</P1>
+				</Part>
+				<Part DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/part/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/part/2" NumberOfProvisions="2"
+					id="schedule-1-part-2">
+					<Number>PART 2</Number>
+					<Title>Further specification</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/12/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/12"
+						id="schedule-1-paragraph-12">
+						<Pnumber PuncAfter="">12</Pnumber>
+						<P1para>
+							<Text>The operation of section 28(1) and (2) is informed by and subject to the further specification in paragraph 13 (and the entries above are to be construed accordingly).</Text>
+						</P1para>
+					</P1>
+					<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13"
+						id="schedule-1-paragraph-13">
+						<Pnumber PuncAfter="">13</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/1"
+								id="schedule-1-paragraph-13-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 1 relates to the functions exercisable by any of the Additional Support Needs Tribunals for Scotland by virtue of section 17(1A) of the Education
+										(Additional Support for Learning) (Scotland) Act 2004.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/2"
+								id="schedule-1-paragraph-13-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 2 relates to the functions exercisable by a Scottish Charity Appeals Panel by virtue of section 75(1) of the Charities and Trustee Investment (Scotland)
+										Act 2005. </Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/3"
+								id="schedule-1-paragraph-13-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 3 relates to the functions exercisable by the Crofting Commission by virtue of the Crofters (Scotland) Act 1993 or any other enactment, but only in so
+										far as they are decision-making functions exercisable—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/3/a"
+										id="schedule-1-paragraph-13-3-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>in the manner of a tribunal, and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/3/b"
+										id="schedule-1-paragraph-13-3-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>with respect to the determination or resolution of disputes.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/4"
+								id="schedule-1-paragraph-13-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 4 relates to the functions exercisable by an education appeal committee set up under section 28D(1) of the Education (Scotland) Act 1980.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/5/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/5"
+								id="schedule-1-paragraph-13-5">
+								<Pnumber>5</Pnumber>
+								<P2para>
+									<Text>In the entry in paragraph 5—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/5/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/5/a"
+										id="schedule-1-paragraph-13-5-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>paragraph (a) relates to the functions exercisable by a private rented housing committee by virtue of section 21(3) of the Housing (Scotland) Act 2006,</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/5/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/5/b"
+										id="schedule-1-paragraph-13-5-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>paragraph (b) relates to the functions exercisable by a homeowner housing committee by virtue of section 16(1) of the Property Factors (Scotland) Act 2011.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/6/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/6"
+								id="schedule-1-paragraph-13-6">
+								<Pnumber>6</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 6 relates to the functions exercisable by the Lands Tribunal for Scotland by virtue of the Lands Tribunal Act 1949 or any other enactment.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/7/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/7"
+								id="schedule-1-paragraph-13-7">
+								<Pnumber>7</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 7 relates to the functions exercisable by the Mental Health Tribunal for Scotland by virtue of section 21(2) of the Mental Health (Care and Treatment)
+										(Scotland) Act 2003.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/8/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/8"
+								id="schedule-1-paragraph-13-8">
+								<Pnumber>8</Pnumber>
+								<P2para>
+									<Text>In the entry in paragraph 8—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/8/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/8/a"
+										id="schedule-1-paragraph-13-8-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>paragraph (a) relates to the functions exercisable by the NHS National Appeal Panel or its chair by virtue of paragraph 5(4) to (6) in Schedule 3 to the National Health
+												Service (Pharmaceutical Services) (Scotland) Regulations 2009 (<Citation URI="http://www.legislation.gov.uk/id/ssi/2009/183" id="c00001" Year="2009" Number="0183"
+													Class="ScottishStatutoryInstrument"><Acronym Expansion="Scottish Statutory Instrument">S.S.I.</Acronym> 2009/183</Citation>),</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/8/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/8/b"
+										id="schedule-1-paragraph-13-8-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>paragraph (b) relates to the functions exercisable by the NHS Tribunal by virtue of sections 29 to 32E of the National Health Service (Scotland) Act 1978.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/9/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/9"
+								id="schedule-1-paragraph-13-9">
+								<Pnumber>9</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 9 relates to the functions exercisable by a parking adjudicator by virtue of sections 72(2) and 73(3) of the Road Traffic Act 1991.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/10/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/10"
+								id="schedule-1-paragraph-13-10">
+								<Pnumber>10</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 10 relates to the functions exercisable by a police appeals tribunal by virtue of section 56(3) of the Police and Fire Reform (Scotland) Act 2012.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13/11/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13/11"
+								id="schedule-1-paragraph-13-11">
+								<Pnumber>11</Pnumber>
+								<P2para>
+									<Text>The entry in paragraph 11 relates to the functions exercisable by a valuation appeal committee by virtue of section 29(1)(a) of the Local Government etc. (Scotland) Act
+										1994.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</Part>
+			</ScheduleBody>
+		</Schedule>
+		<Schedule DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2" NumberOfProvisions="4" id="schedule-2">
+			<Number>SCHEDULE 2</Number>
+			<TitleBlock>
+				<Title>Transfer-in of members</Title>
+			</TitleBlock>
+			<Reference>(introduced by section 29)</Reference>
+			<ScheduleBody>
+				<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1"
+					id="schedule-2-paragraph-1">
+					<Pnumber PuncAfter="">1</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/1"
+							id="schedule-2-paragraph-1-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The Scottish Ministers may by regulations provide for some or all of the transferable persons to become the holders of any of the particular or other positions within the
+									Scottish Tribunals specified in paragraph 4(1) or (2).</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/2"
+							id="schedule-2-paragraph-1-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In sub-paragraph (1), the transferable persons are the persons who—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/2/a"
+									id="schedule-2-paragraph-1-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>are members—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/2/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/2/a/i"
+											id="schedule-2-paragraph-1-2-a-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>of any of the listed tribunals, or</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/2/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/2/a/ii"
+											id="schedule-2-paragraph-1-2-a-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>of any panel or other body from which the members of any of the listed tribunals are drawn, </Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/2/b"
+									id="schedule-2-paragraph-1-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>are authorised decision-makers for any of the listed tribunals, or</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/2/c/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/2/c"
+									id="schedule-2-paragraph-1-2-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>by reason of holding particular offices, constitute any of the listed tribunals.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/3"
+							id="schedule-2-paragraph-1-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>But sub-paragraph (2) does not apply in relation to—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/3/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/3/a"
+									id="schedule-2-paragraph-1-3-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>any—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/3/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/3/a/i"
+											id="schedule-2-paragraph-1-3-a-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>judges of the Court of Session, or</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/3/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/3/a/ii"
+											id="schedule-2-paragraph-1-3-a-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>sheriffs, or</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1/3/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1/3/b"
+									id="schedule-2-paragraph-1-3-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>if appointed by reason of holding judicial office, the President of the Lands Tribunal for Scotland.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/2"
+					id="schedule-2-paragraph-2">
+					<Pnumber PuncAfter="">2</Pnumber>
+					<P1para>
+						<Text>Subject to the relevant provisions of schedule 7, regulations under paragraph 1(1) may contain provision for the terms and conditions under which the persons concerned are to hold
+							those positions, including by—</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/2/a"
+							id="schedule-2-paragraph-2-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>preserving or altering the terms and conditions under which they are members of a listed tribunal, or</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/2/b"
+							id="schedule-2-paragraph-2-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>replacing those terms and conditions with new ones.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/3"
+					id="schedule-2-paragraph-3">
+					<Pnumber PuncAfter="">3</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/3/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/3/1"
+							id="schedule-2-paragraph-3-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Regulations under paragraph 1(1) may be made only where some or all functions of the tribunal have been, or are to be, transferred by regulations under section 28(2) (whenever
+									made).</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/3/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/3/2"
+							id="schedule-2-paragraph-3-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Regulations under paragraph 1(1) must not cause any of the persons concerned to become the holder of any particular or other position to which the person would not be eligible
+									for appointment under the relevant provisions of schedules 3 to 6.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/3/3/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/3/3"
+							id="schedule-2-paragraph-3-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A particular instrument containing regulations under paragraph 1(1) may not relate to the members of more than one of the listed tribunals.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4"
+					id="schedule-2-paragraph-4">
+					<Pnumber PuncAfter="">4</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1"
+							id="schedule-2-paragraph-4-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In relation to the First-tier Tribunal—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1/a"
+									id="schedule-2-paragraph-4-1-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the particular positions are—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1/a/i"
+											id="schedule-2-paragraph-4-1-a-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>Chamber President in the Tribunal,</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1/a/ii"
+											id="schedule-2-paragraph-4-1-a-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>Deputy Chamber President in the Tribunal,</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1/b"
+									id="schedule-2-paragraph-4-1-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the other positions are—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1/b/i"
+											id="schedule-2-paragraph-4-1-b-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>ordinary member of the Tribunal,</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/1/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/1/b/ii"
+											id="schedule-2-paragraph-4-1-b-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>legal member of the Tribunal (apart from Chamber President (or Deputy)).</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/2/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/2"
+							id="schedule-2-paragraph-4-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In relation to the Upper Tribunal—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/2/a"
+									id="schedule-2-paragraph-4-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the particular position is Vice-President of the Tribunal,</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/2/b"
+									id="schedule-2-paragraph-4-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the other positions are—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/2/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/2/b/i"
+											id="schedule-2-paragraph-4-2-b-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>ordinary member of the Tribunal,</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4/2/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4/2/b/ii"
+											id="schedule-2-paragraph-4-2-b-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>legal member of the Tribunal (apart from Vice-President).</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</ScheduleBody>
+		</Schedule>
+	</Schedules>
+</Primary>

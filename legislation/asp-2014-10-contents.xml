@@ -1,0 +1,1754 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/asp/2014/10"
+	IdURI="http://www.legislation.gov.uk/id/asp/2014/10" NumberOfProvisions="182" xml:lang="en"
+	xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="S" RestrictStartDate="2014-04-16"
+	xml:base="http://www.legislation.gov.uk/id/asp/2014/10">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/asp/2014/10/contents</dc:identifier>
+		<dc:title>Tribunals (Scotland) Act 2014</dc:title>
+		<dc:description>An Act of the Scottish Parliament to establish the First-tier Tribunal for Scotland and the Upper Tribunal for Scotland; and for connected purposes.</dc:description>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2014-05-20</dc:modified>
+		<dct:valid>2014-04-16</dct:valid>
+		<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/10/contents/data.xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/asp/2014/10/resources" title="More Resources"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/asp/2014/10/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/asp/2014/10/notes/contents" title="Explanatory Notes Table of Contents"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/asp/2014/10" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/asp/2014/10/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/asp/2014/10/body" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/asp/2014/10/schedules" title="schedules"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/10/contents/data.htm" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/10/contents/data.pdf" title="PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/asp/2014/10/contents/2014-04-15" title="2014-04-15"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/asp/2014/10/contents/prospective" title="prospective"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2014/10/contents/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2014/10/contents/2014-04-16" title="2014-04-16"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2014/10/contents/prospective" title="prospective"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="ScottishAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2014"/>
+			<ukm:Number Value="10"/>
+			<ukm:EnactmentDate Date="2014-04-15"/>
+			<ukm:ISBN Value="9780105902195"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-538ea9545f5aa2befcf61431f1284827" AffectingClass="ScottishAct" Modified="2014-06-20T18:30:13.794+01:00" Created="2014-06-20T18:30:13.794+01:00"
+					AffectedClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/asp-2014-10-ea33uhq1-8" Type="applied by 1993 c. 8 s. 30(1A) (as inserted)" RequiresApplied="true"
+					AffectedProvisions="Act" AffectingEffectsExtent="S" AffectingYear="2014" AffectingNumber="10" AffectingProvisions="sch. 9 para. 11(3)"
+					AffectedURI="http://www.legislation.gov.uk/id/asp/2014/10" AffectedYear="2014" AffectedNumber="10" AffectingURI="http://www.legislation.gov.uk/id/asp/2014/10">
+					<ukm:AffectedTitle>Tribunals (Scotland) Act 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Act</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Tribunals (Scotland) Act 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-11-3" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/11/3">para. 11(3)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:Savings>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-8" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/8">para. 8</ukm:Section>
+					</ukm:Savings>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="section-83-2" URI="http://www.legislation.gov.uk/id/asp/2014/10/section/83/2">s. 83(2)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Prospective="true" Qualification="" Applied="false"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-6fc4702671173633592e65edd8755116" Modified="2014-06-20T18:30:13.794+01:00" AffectingClass="ScottishAct" Created="2014-06-20T18:30:13.794+01:00"
+					URI="http://www.legislation.gov.uk/id/effect/asp-2014-10-ea33uhq1-17" Type="applied by 2008 asp 6 sch. 1 para. 3(6) (as inserted)" RequiresApplied="true" AffectedProvisions="Act"
+					AffectingEffectsExtent="S" AffectingYear="2014" AffectingNumber="10" AffectingProvisions="sch. 9 para. 12(4)(c)" AffectedURI="http://www.legislation.gov.uk/id/asp/2014/10"
+					AffectedYear="2014" AffectedNumber="10" AffectingURI="http://www.legislation.gov.uk/id/asp/2014/10" AffectedClass="ScottishAct">
+					<ukm:AffectedTitle>Tribunals (Scotland) Act 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Act</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Tribunals (Scotland) Act 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-12-4-c" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/12/4/c">para. 12(4)(c)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:Savings>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-8" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/8">para. 8</ukm:Section>
+					</ukm:Savings>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="section-83-2" URI="http://www.legislation.gov.uk/id/asp/2014/10/section/83/2">s. 83(2)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Prospective="true" Qualification="" Applied="false"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-646761f8f7560941f66e0caf8da87c07" AffectedClass="ScottishAct" Created="2014-06-20T18:30:13.794+01:00"
+					URI="http://www.legislation.gov.uk/id/effect/asp-2014-10-ea33uhq1-19" Type="applied by 2008 asp 6 sch. 1 para. 16A(8) (as inserted)" RequiresApplied="true" AffectedProvisions="Act"
+					AffectingEffectsExtent="S" AffectingYear="2014" AffectingNumber="10" AffectingProvisions="sch. 9 para. 12(5)" AffectedURI="http://www.legislation.gov.uk/id/asp/2014/10" AffectedYear="2014"
+					AffectedNumber="10" AffectingURI="http://www.legislation.gov.uk/id/asp/2014/10" AffectingClass="ScottishAct" Modified="2014-06-20T18:30:13.794+01:00">
+					<ukm:AffectedTitle>Tribunals (Scotland) Act 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Act</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Tribunals (Scotland) Act 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-12-5" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/12/5">para. 12(5)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:Savings>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-8" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/8">para. 8</ukm:Section>
+					</ukm:Savings>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="section-83-2" URI="http://www.legislation.gov.uk/id/asp/2014/10/section/83/2">s. 83(2)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Prospective="true" Qualification="" Applied="false"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-adb19c27a72248673b1ad6ab2a6ff831" Modified="2014-06-20T18:30:13.794+01:00" AffectingClass="ScottishAct" AffectedClass="ScottishAct"
+					URI="http://www.legislation.gov.uk/id/effect/asp-2014-10-ea33uhq1-20" Type="applied by 2008 asp 6 sch. 1 para. 16A(8) (as inserted)" RequiresApplied="true" AffectedProvisions="s. 13(3)"
+					AffectingEffectsExtent="S" AffectingYear="2014" AffectingNumber="10" AffectingProvisions="sch. 9 para. 12(5)" AffectedURI="http://www.legislation.gov.uk/id/asp/2014/10" AffectedYear="2014"
+					AffectedNumber="10" AffectingURI="http://www.legislation.gov.uk/id/asp/2014/10" Created="2014-06-20T18:30:13.794+01:00">
+					<ukm:AffectedTitle>Tribunals (Scotland) Act 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="section-13-3" URI="http://www.legislation.gov.uk/id/asp/2014/10/section/13/3">s. 13(3)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Tribunals (Scotland) Act 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-12-5" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/12/5">para. 12(5)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:Savings>
+						<ukm:Section Ref="schedule-9" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9">sch. 9 </ukm:Section>
+						<ukm:Section Ref="schedule-9-paragraph-8" URI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/8">para. 8</ukm:Section>
+					</ukm:Savings>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="section-83-2" URI="http://www.legislation.gov.uk/id/asp/2014/10/section/83/2">s. 83(2)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Prospective="true" Qualification="" Applied="false"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:PrimaryMetadata>
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/asp/2014/10/notes" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/notes/contents"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/asp/2014/10/pdfs/aspen_20140010_en.pdf" Date="2014-05-02" Size="395234"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/asp/2014/10/pdfs/asp_20140010_en.pdf" Date="2014-04-24" Size="511264"/>
+		</ukm:Alternatives>
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="182"/>
+			<ukm:BodyParagraphs Value="84"/>
+			<ukm:ScheduleParagraphs Value="98"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Contents>
+		<ContentsTitle>Tribunals (Scotland) Act 2014</ContentsTitle>
+		<ContentsPart ContentRef="part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1"
+			RestrictExtent="S">
+			<ContentsNumber>PART 1</ContentsNumber>
+			<ContentsTitle>The Scottish Tribunals</ContentsTitle>
+			<ContentsChapter ContentRef="part-1-chapter-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/1" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/1" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 1</ContentsNumber>
+				<ContentsTitle>Establishment and leadership</ContentsTitle>
+				<ContentsPblock ContentRef="part-1-chapter-1-crossheading-establishment-and-headship-etc"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/1/crossheading/establishment-and-headship-etc" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/1/crossheading/establishment-and-headship-etc" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Establishment and headship <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation></Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/1" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/1" RestrictExtent="S">
+						<ContentsNumber>1</ContentsNumber>
+						<ContentsTitle>Establishment of the Tribunals</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/2" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/2" RestrictExtent="S">
+						<ContentsNumber>2</ContentsNumber>
+						<ContentsTitle>Head of the Tribunals</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/3" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/3" RestrictExtent="S">
+						<ContentsNumber>3</ContentsNumber>
+						<ContentsTitle>Upholding independence</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-1-chapter-1-crossheading-president-of-the-tribunals"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/1/crossheading/president-of-the-tribunals" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/1/crossheading/president-of-the-tribunals" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>President of the Tribunals</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/4" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/4" RestrictExtent="S">
+						<ContentsNumber>4</ContentsNumber>
+						<ContentsTitle>Assignment to office</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/5" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/5" RestrictExtent="S">
+						<ContentsNumber>5</ContentsNumber>
+						<ContentsTitle>Functions of office</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+			<ContentsChapter ContentRef="part-1-chapter-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 2</ContentsNumber>
+				<ContentsTitle>Overarching responsibilities</ContentsTitle>
+				<ContentsPblock ContentRef="part-1-chapter-2-crossheading-head-of-the-tribunals" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2/crossheading/head-of-the-tribunals"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/crossheading/head-of-the-tribunals" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Head of the Tribunals</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/6" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/6" RestrictExtent="S">
+						<ContentsNumber>6</ContentsNumber>
+						<ContentsTitle>Representation of interests</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/7" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/7" RestrictExtent="S">
+						<ContentsNumber>7</ContentsNumber>
+						<ContentsTitle>Business arrangements</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/8" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/8" RestrictExtent="S">
+						<ContentsNumber>8</ContentsNumber>
+						<ContentsTitle>Delegation of functions</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/9" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/9" RestrictExtent="S">
+						<ContentsNumber>9</ContentsNumber>
+						<ContentsTitle>Directions on functions</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-1-chapter-2-crossheading-regulations-by-ministers" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2/crossheading/regulations-by-ministers"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/crossheading/regulations-by-ministers" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Regulations by Ministers</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-10" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/10" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/10" RestrictExtent="S">
+						<ContentsNumber>10</ContentsNumber>
+						<ContentsTitle>Authority under regulations</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-11" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/11" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/11" RestrictExtent="S">
+						<ContentsNumber>11</ContentsNumber>
+						<ContentsTitle>Consultation on regulations</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-1-chapter-2-crossheading-guiding-principle" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/1/chapter/2/crossheading/guiding-principle" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/1/chapter/2/crossheading/guiding-principle" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Guiding principle</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-12" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/12" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/12" RestrictExtent="S">
+						<ContentsNumber>12</ContentsNumber>
+						<ContentsTitle>Principle to be observed</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2"
+			RestrictExtent="S">
+			<ContentsNumber>PART 2</ContentsNumber>
+			<ContentsTitle>Organisational arrangements</ContentsTitle>
+			<ContentsChapter ContentRef="part-2-chapter-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/1" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/1" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 1</ContentsNumber>
+				<ContentsTitle>Membership types</ContentsTitle>
+				<ContentsPblock ContentRef="part-2-chapter-1-crossheading-overview-and-main-types" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/1/crossheading/overview-and-main-types"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/1/crossheading/overview-and-main-types" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Overview and main types</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-13" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/13" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/13" RestrictExtent="S">
+						<ContentsNumber>13</ContentsNumber>
+						<ContentsTitle>Overview of membership</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-14" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/14" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/14" RestrictExtent="S">
+						<ContentsNumber>14</ContentsNumber>
+						<ContentsTitle>Capacity of members</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-15" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/15" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/15" RestrictExtent="S">
+						<ContentsNumber>15</ContentsNumber>
+						<ContentsTitle>First-tier members</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-16" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/16" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/16" RestrictExtent="S">
+						<ContentsNumber>16</ContentsNumber>
+						<ContentsTitle>Upper members</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-2-chapter-1-crossheading-judiciary-eligible-to-sit"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/1/crossheading/judiciary-eligible-to-sit" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/1/crossheading/judiciary-eligible-to-sit" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Judiciary eligible to sit</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-17" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/17" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/17" RestrictExtent="S">
+						<ContentsNumber>17</ContentsNumber>
+						<ContentsTitle>Sheriffs and judges</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-18" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/18" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/18" RestrictExtent="S">
+						<ContentsNumber>18</ContentsNumber>
+						<ContentsTitle>Authorisation of others</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-19" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/19" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/19" RestrictExtent="S">
+						<ContentsNumber>19</ContentsNumber>
+						<ContentsTitle>Judicial membership</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+			<ContentsChapter ContentRef="part-2-chapter-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/2" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/2" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 2</ContentsNumber>
+				<ContentsTitle>Internal structure</ContentsTitle>
+				<ContentsPblock ContentRef="part-2-chapter-2-crossheading-structure-of-firsttier-tribunal"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/2/crossheading/structure-of-firsttier-tribunal" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/2/crossheading/structure-of-firsttier-tribunal" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Structure of First-tier Tribunal</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-20" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/20" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/20" RestrictExtent="S">
+						<ContentsNumber>20</ContentsNumber>
+						<ContentsTitle>Chambers in the Tribunal</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-21" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/21" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/21" RestrictExtent="S">
+						<ContentsNumber>21</ContentsNumber>
+						<ContentsTitle>Chamber Presidents</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-22" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/22" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/22" RestrictExtent="S">
+						<ContentsNumber>22</ContentsNumber>
+						<ContentsTitle>Appointment to post</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-2-chapter-2-crossheading-structure-of-upper-tribunal"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/2/chapter/2/crossheading/structure-of-upper-tribunal" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/2/chapter/2/crossheading/structure-of-upper-tribunal" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Structure of Upper Tribunal</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-23" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/23" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/23" RestrictExtent="S">
+						<ContentsNumber>23</ContentsNumber>
+						<ContentsTitle>Divisions of the Tribunal</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-24" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/24" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/24" RestrictExtent="S">
+						<ContentsNumber>24</ContentsNumber>
+						<ContentsTitle>Vice-Presidents</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-25" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/25" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/25" RestrictExtent="S">
+						<ContentsNumber>25</ContentsNumber>
+						<ContentsTitle>Assignment to post</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-26" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/26" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/26" RestrictExtent="S">
+						<ContentsNumber>26</ContentsNumber>
+						<ContentsTitle>Appointment to post</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/3" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/3"
+			RestrictExtent="S">
+			<ContentsNumber>PART 3</ContentsNumber>
+			<ContentsTitle>Acquisition of functions</ContentsTitle>
+			<ContentsPblock ContentRef="part-3-crossheading-transferin-from-listed-tribunals" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/3/crossheading/transferin-from-listed-tribunals"
+				Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/3/crossheading/transferin-from-listed-tribunals" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Transfer-in from listed tribunals</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-27" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/27" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/27" RestrictExtent="S">
+					<ContentsNumber>27</ContentsNumber>
+					<ContentsTitle>Listed tribunals</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-28" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/28" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/28" RestrictExtent="S">
+					<ContentsNumber>28</ContentsNumber>
+					<ContentsTitle>Transfer-in of functions</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-29" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/29" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/29" RestrictExtent="S">
+					<ContentsNumber>29</ContentsNumber>
+					<ContentsTitle>Transfer-in of members</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+			<ContentsPblock ContentRef="part-3-crossheading-conferral-of-functions-by-another-act"
+				IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/3/crossheading/conferral-of-functions-by-another-act" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/3/crossheading/conferral-of-functions-by-another-act" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Conferral of functions by another Act</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-30" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/30" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/30" RestrictExtent="S">
+					<ContentsNumber>30</ContentsNumber>
+					<ContentsTitle>Accommodation of functions</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-31" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/31" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/31" RestrictExtent="S">
+					<ContentsNumber>31</ContentsNumber>
+					<ContentsTitle>Redistribution of functions</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/4" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/4"
+			RestrictExtent="S">
+			<ContentsNumber>PART 4</ContentsNumber>
+			<ContentsTitle>More about membership etc.</ContentsTitle>
+			<ContentsPblock ContentRef="part-4-crossheading-appointment-and-assignment" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/4/crossheading/appointment-and-assignment" Match="false"
+				Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/4/crossheading/appointment-and-assignment" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Appointment and assignment</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-32" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/32" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/32" RestrictExtent="S">
+					<ContentsNumber>32</ContentsNumber>
+					<ContentsTitle>Scheduled provisions</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-33" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/33" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/33" RestrictExtent="S">
+					<ContentsNumber>33</ContentsNumber>
+					<ContentsTitle>Assignment policy</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+			<ContentsPblock ContentRef="part-4-crossheading-training-conditions-and-conduct" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/4/crossheading/training-conditions-and-conduct"
+				Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/4/crossheading/training-conditions-and-conduct" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Training, conditions and conduct</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-34" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/34" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/34" RestrictExtent="S">
+					<ContentsNumber>34</ContentsNumber>
+					<ContentsTitle>Training and review</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-35" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/35" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/35" RestrictExtent="S">
+					<ContentsNumber>35</ContentsNumber>
+					<ContentsTitle>Conditions of membership etc.</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-36" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/36" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/36" RestrictExtent="S">
+					<ContentsNumber>36</ContentsNumber>
+					<ContentsTitle>Conduct and fitness etc.</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/5" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/5"
+			RestrictExtent="S">
+			<ContentsNumber>PART 5</ContentsNumber>
+			<ContentsTitle>Decision-making and composition</ContentsTitle>
+			<ContentsPblock ContentRef="part-5-crossheading-decisions-in-firsttier-tribunal" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/5/crossheading/decisions-in-firsttier-tribunal"
+				Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/5/crossheading/decisions-in-firsttier-tribunal" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Decisions in First-tier Tribunal</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-37" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/37" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/37" RestrictExtent="S">
+					<ContentsNumber>37</ContentsNumber>
+					<ContentsTitle>Decisions in the Tribunal</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-38" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/38" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/38" RestrictExtent="S">
+					<ContentsNumber>38</ContentsNumber>
+					<ContentsTitle>Composition of the Tribunal</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+			<ContentsPblock ContentRef="part-5-crossheading-decisions-in-upper-tribunal" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/5/crossheading/decisions-in-upper-tribunal" Match="false"
+				Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/5/crossheading/decisions-in-upper-tribunal" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Decisions in Upper Tribunal</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-39" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/39" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/39" RestrictExtent="S">
+					<ContentsNumber>39</ContentsNumber>
+					<ContentsTitle>Decisions in the Tribunal</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-40" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/40" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/40" RestrictExtent="S">
+					<ContentsNumber>40</ContentsNumber>
+					<ContentsTitle>Composition of the Tribunal</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+			<ContentsPblock ContentRef="part-5-crossheading-voting-where-two-or-more-members" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/5/crossheading/voting-where-two-or-more-members"
+				Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/5/crossheading/voting-where-two-or-more-members" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Voting where two or more members</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-41" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/41" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/41" RestrictExtent="S">
+					<ContentsNumber>41</ContentsNumber>
+					<ContentsTitle>Voting for decisions</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-42" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/42" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/42" RestrictExtent="S">
+					<ContentsNumber>42</ContentsNumber>
+					<ContentsTitle>Chairing members</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6"
+			RestrictExtent="S">
+			<ContentsNumber>PART 6</ContentsNumber>
+			<ContentsTitle>Review or appeal of decisions</ContentsTitle>
+			<ContentsChapter ContentRef="part-6-chapter-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/1" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/1" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 1</ContentsNumber>
+				<ContentsTitle>Tribunal decisions</ContentsTitle>
+				<ContentsPblock ContentRef="part-6-chapter-1-crossheading-internal-review" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/1/crossheading/internal-review" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/1/crossheading/internal-review" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Internal review</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-43" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/43" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/43" RestrictExtent="S">
+						<ContentsNumber>43</ContentsNumber>
+						<ContentsTitle>Review of decisions</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-44" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/44" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/44" RestrictExtent="S">
+						<ContentsNumber>44</ContentsNumber>
+						<ContentsTitle>Actions on review</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-45" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/45" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/45" RestrictExtent="S">
+						<ContentsNumber>45</ContentsNumber>
+						<ContentsTitle>Review once only</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-6-chapter-1-crossheading-appeal-from-firsttier-tribunal"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/1/crossheading/appeal-from-firsttier-tribunal" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/1/crossheading/appeal-from-firsttier-tribunal" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Appeal from First-tier Tribunal</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-46" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/46" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/46" RestrictExtent="S">
+						<ContentsNumber>46</ContentsNumber>
+						<ContentsTitle>Appeal from the Tribunal</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-47" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/47" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/47" RestrictExtent="S">
+						<ContentsNumber>47</ContentsNumber>
+						<ContentsTitle>Disposal of an appeal</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-6-chapter-1-crossheading-appeal-from-upper-tribunal"
+					IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/1/crossheading/appeal-from-upper-tribunal" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/1/crossheading/appeal-from-upper-tribunal" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Appeal from Upper Tribunal</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-48" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/48" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/48" RestrictExtent="S">
+						<ContentsNumber>48</ContentsNumber>
+						<ContentsTitle>Appeal from the Tribunal</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-49" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/49" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/49" RestrictExtent="S">
+						<ContentsNumber>49</ContentsNumber>
+						<ContentsTitle>Disposal of an appeal</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-50" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/50" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/50" RestrictExtent="S">
+						<ContentsNumber>50</ContentsNumber>
+						<ContentsTitle>Procedure on second appeal</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-6-chapter-1-crossheading-excluded-decisions" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/1/crossheading/excluded-decisions"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/1/crossheading/excluded-decisions" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Excluded decisions</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-51" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/51" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/51" RestrictExtent="S">
+						<ContentsNumber>51</ContentsNumber>
+						<ContentsTitle>Excluded decisions</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-52" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/52" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/52" RestrictExtent="S">
+						<ContentsNumber>52</ContentsNumber>
+						<ContentsTitle>Decisions on review</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-53" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/53" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/53" RestrictExtent="S">
+						<ContentsNumber>53</ContentsNumber>
+						<ContentsTitle>Other appeal rights</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-54" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/54" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/54" RestrictExtent="S">
+						<ContentsNumber>54</ContentsNumber>
+						<ContentsTitle>Position on transfer-in</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-6-chapter-1-crossheading-miscellaneous-procedure" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/1/crossheading/miscellaneous-procedure"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/1/crossheading/miscellaneous-procedure" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Miscellaneous procedure</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-55" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/55" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/55" RestrictExtent="S">
+						<ContentsNumber>55</ContentsNumber>
+						<ContentsTitle>Process for permission</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-56" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/56" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/56" RestrictExtent="S">
+						<ContentsNumber>56</ContentsNumber>
+						<ContentsTitle>Participation of non-parties</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+			<ContentsChapter ContentRef="part-6-chapter-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/6/chapter/2" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/6/chapter/2" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 2</ContentsNumber>
+				<ContentsTitle>Special jurisdiction</ContentsTitle>
+				<ContentsItem ContentRef="section-57" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/57" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/57" RestrictExtent="S">
+					<ContentsNumber>57</ContentsNumber>
+					<ContentsTitle>Judicial review cases</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-58" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/58" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/58" RestrictExtent="S">
+					<ContentsNumber>58</ContentsNumber>
+					<ContentsTitle>Decision on remittal</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-59" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/59" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/59" RestrictExtent="S">
+					<ContentsNumber>59</ContentsNumber>
+					<ContentsTitle>Additional matters</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-60" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/60" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/60" RestrictExtent="S">
+					<ContentsNumber>60</ContentsNumber>
+					<ContentsTitle>Meaning of judicial review</ContentsTitle>
+				</ContentsItem>
+			</ContentsChapter>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7" Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7"
+			RestrictExtent="S">
+			<ContentsNumber>PART 7</ContentsNumber>
+			<ContentsTitle>Powers, procedure and administration</ContentsTitle>
+			<ContentsChapter ContentRef="part-7-chapter-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/1" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/1" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 1</ContentsNumber>
+				<ContentsTitle>Powers and enforcement</ContentsTitle>
+				<ContentsPblock ContentRef="part-7-chapter-1-crossheading-cases-and-proceedings" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/1/crossheading/cases-and-proceedings"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/1/crossheading/cases-and-proceedings" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Cases and proceedings</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-61" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/61" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/61" RestrictExtent="S">
+						<ContentsNumber>61</ContentsNumber>
+						<ContentsTitle>Venue for hearings</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-62" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/62" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/62" RestrictExtent="S">
+						<ContentsNumber>62</ContentsNumber>
+						<ContentsTitle>Conduct of cases</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-63" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/63" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/63" RestrictExtent="S">
+						<ContentsNumber>63</ContentsNumber>
+						<ContentsTitle>Enforcement of decisions</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-64" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/64" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/64" RestrictExtent="S">
+						<ContentsNumber>64</ContentsNumber>
+						<ContentsTitle>Award of expenses</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-7-chapter-1-crossheading-supplementary-provisions" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/1/crossheading/supplementary-provisions"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/1/crossheading/supplementary-provisions" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Supplementary provisions</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-65" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/65" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/65" RestrictExtent="S">
+						<ContentsNumber>65</ContentsNumber>
+						<ContentsTitle>Additional powers</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-66" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/66" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/66" RestrictExtent="S">
+						<ContentsNumber>66</ContentsNumber>
+						<ContentsTitle>Application of enactments</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-67" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/67" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/67" RestrictExtent="S">
+						<ContentsNumber>67</ContentsNumber>
+						<ContentsTitle>Offences in relation to proceedings</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+			<ContentsChapter ContentRef="part-7-chapter-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/2" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/2" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 2</ContentsNumber>
+				<ContentsTitle>Practice and procedure</ContentsTitle>
+				<ContentsPblock ContentRef="part-7-chapter-2-crossheading-tribunal-rules" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/2/crossheading/tribunal-rules" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/2/crossheading/tribunal-rules" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Tribunal Rules</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-68" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/68" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/68" RestrictExtent="S">
+						<ContentsNumber>68</ContentsNumber>
+						<ContentsTitle>Tribunal Rules</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-69" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/69" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/69" RestrictExtent="S">
+						<ContentsNumber>69</ContentsNumber>
+						<ContentsTitle>Exercise of functions</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-70" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/70" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/70" RestrictExtent="S">
+						<ContentsNumber>70</ContentsNumber>
+						<ContentsTitle>Extent of rule-making</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-7-chapter-2-crossheading-particular-matters" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/2/crossheading/particular-matters"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/2/crossheading/particular-matters" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Particular matters</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-71" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/71" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/71" RestrictExtent="S">
+						<ContentsNumber>71</ContentsNumber>
+						<ContentsTitle>Proceedings and steps</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-72" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/72" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/72" RestrictExtent="S">
+						<ContentsNumber>72</ContentsNumber>
+						<ContentsTitle>Hearings in cases</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-73" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/73" Match="false" Status="Prospective" ConfersPower="true"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/73" RestrictExtent="S">
+						<ContentsNumber>73</ContentsNumber>
+						<ContentsTitle>Evidence and decisions</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="part-7-chapter-2-crossheading-issuing-directions" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/2/crossheading/issuing-directions"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/2/crossheading/issuing-directions" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Issuing directions</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="section-74" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/74" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/74" RestrictExtent="S">
+						<ContentsNumber>74</ContentsNumber>
+						<ContentsTitle>Practice directions</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="section-75" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/75" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/75" RestrictExtent="S">
+						<ContentsNumber>75</ContentsNumber>
+						<ContentsTitle>Publication and effect</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsChapter>
+			<ContentsChapter ContentRef="part-7-chapter-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/7/chapter/3" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/7/chapter/3" RestrictExtent="S">
+				<ContentsNumber>CHAPTER 3</ContentsNumber>
+				<ContentsTitle>Fees and administration</ContentsTitle>
+				<ContentsItem ContentRef="section-76" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/76" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/76" RestrictExtent="S">
+					<ContentsNumber>76</ContentsNumber>
+					<ContentsTitle>Tribunal fees</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-77" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/77" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/77" RestrictExtent="S">
+					<ContentsNumber>77</ContentsNumber>
+					<ContentsTitle>Administrative support</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-78" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/78" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/78" RestrictExtent="S">
+					<ContentsNumber>78</ContentsNumber>
+					<ContentsTitle>Annual reporting</ContentsTitle>
+				</ContentsItem>
+			</ContentsChapter>
+		</ContentsPart>
+		<ContentsPart ContentRef="part-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/8" RestrictStartDate="2014-04-16" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/8"
+			RestrictExtent="S">
+			<ContentsNumber>PART 8</ContentsNumber>
+			<ContentsTitle>Final provisions</ContentsTitle>
+			<ContentsPblock ContentRef="part-8-crossheading-general-and-ancillary" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/8/crossheading/general-and-ancillary" Match="false"
+				Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/8/crossheading/general-and-ancillary" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>General and ancillary</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-79" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/79" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/79" RestrictExtent="S">
+					<ContentsNumber>79</ContentsNumber>
+					<ContentsTitle>Regulation-making</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-80" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/80" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/80" RestrictExtent="S">
+					<ContentsNumber>80</ContentsNumber>
+					<ContentsTitle>Ancillary regulations</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-81" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/81" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/81" RestrictExtent="S">
+					<ContentsNumber>81</ContentsNumber>
+					<ContentsTitle>Transitional and consequential</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+			<ContentsPblock ContentRef="part-8-crossheading-interpretation-commencement-and-short-title"
+				IdURI="http://www.legislation.gov.uk/id/asp/2014/10/part/8/crossheading/interpretation-commencement-and-short-title" RestrictStartDate="2014-04-16"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/part/8/crossheading/interpretation-commencement-and-short-title" RestrictExtent="S">
+				<ContentsTitle>
+					<Emphasis>Interpretation, commencement and short title</Emphasis>
+				</ContentsTitle>
+				<ContentsItem ContentRef="section-82" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/82" RestrictStartDate="2014-04-16"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/82" RestrictExtent="S">
+					<ContentsNumber>82</ContentsNumber>
+					<ContentsTitle>Interpretation</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-83" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/83" RestrictStartDate="2014-04-16" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/83" RestrictExtent="S">
+					<ContentsNumber>83</ContentsNumber>
+					<ContentsTitle>Commencement</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="section-84" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/section/84" RestrictStartDate="2014-04-16"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/section/84" RestrictExtent="S">
+					<ContentsNumber>84</ContentsNumber>
+					<ContentsTitle>Short title</ContentsTitle>
+				</ContentsItem>
+			</ContentsPblock>
+		</ContentsPart>
+		<ContentsSchedules RestrictStartDate="2014-04-16">
+			<ContentsSchedule ContentRef="schedule-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 1</ContentsNumber>
+				<ContentsTitle>Listed tribunals</ContentsTitle>
+				<ContentsPart ContentRef="schedule-1-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>List of tribunals</ContentsTitle>
+					<ContentsItem ContentRef="schedule-1-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/1" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/1" RestrictExtent="S">
+						<ContentsNumber>1</ContentsNumber>
+						<ContentsTitle Generated="true">An Additional Support Needs Tribunal </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/2" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/2" RestrictExtent="S">
+						<ContentsNumber>2</ContentsNumber>
+						<ContentsTitle Generated="true">A Scottish Charity Appeals Panel </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/3" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/3" RestrictExtent="S">
+						<ContentsNumber>3</ContentsNumber>
+						<ContentsTitle Generated="true">The Crofting Commission </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/4" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/4" RestrictExtent="S">
+						<ContentsNumber>4</ContentsNumber>
+						<ContentsTitle Generated="true">An Education Appeal Committee </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/5" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/5" RestrictExtent="S">
+						<ContentsNumber>5</ContentsNumber>
+						<ContentsTitle Generated="true">In relation to certain Housing and other Acts— </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/6" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/6" RestrictExtent="S">
+						<ContentsNumber>6</ContentsNumber>
+						<ContentsTitle Generated="true">The Lands Tribunal for Scotland </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/7" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/7" RestrictExtent="S">
+						<ContentsNumber>7</ContentsNumber>
+						<ContentsTitle Generated="true">The Mental Health Tribunal for Scotland </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/8" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/8" RestrictExtent="S">
+						<ContentsNumber>8</ContentsNumber>
+						<ContentsTitle Generated="true">In relation to the National Health Service— </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/9" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/9" RestrictExtent="S">
+						<ContentsNumber>9</ContentsNumber>
+						<ContentsTitle Generated="true">A Parking Adjudicator </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-10" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/10" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/10" RestrictExtent="S">
+						<ContentsNumber>10</ContentsNumber>
+						<ContentsTitle Generated="true">A Police Appeals Tribunal </ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-11" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/11" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/11" RestrictExtent="S">
+						<ContentsNumber>11</ContentsNumber>
+						<ContentsTitle Generated="true">A Valuation Appeal Committee. </ContentsTitle>
+					</ContentsItem>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-1-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Further specification</ContentsTitle>
+					<ContentsItem ContentRef="schedule-1-paragraph-12" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/12" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/12" RestrictExtent="S">
+						<ContentsNumber>12</ContentsNumber>
+						<ContentsTitle Generated="true">The operation of section 28(1) and (2) is informed by...</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-1-paragraph-13" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/1/paragraph/13" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/1/paragraph/13" RestrictExtent="S">
+						<ContentsNumber>13</ContentsNumber>
+						<ContentsTitle Generated="true">(1) The entry in paragraph 1 relates to the functions...</ContentsTitle>
+					</ContentsItem>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 2</ContentsNumber>
+				<ContentsTitle>Transfer-in of members</ContentsTitle>
+				<ContentsItem ContentRef="schedule-2-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/1" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/1" RestrictExtent="S">
+					<ContentsNumber>1</ContentsNumber>
+					<ContentsTitle Generated="true">(1) The Scottish Ministers may by regulations provide for some...</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="schedule-2-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/2" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/2" RestrictExtent="S">
+					<ContentsNumber>2</ContentsNumber>
+					<ContentsTitle Generated="true">Subject to the relevant provisions of schedule 7, regulations under...</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="schedule-2-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/3" Match="false" Status="Prospective" ConfersPower="true"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/3" RestrictExtent="S">
+					<ContentsNumber>3</ContentsNumber>
+					<ContentsTitle Generated="true">(1) Regulations under paragraph 1(1) may be made only where...</ContentsTitle>
+				</ContentsItem>
+				<ContentsItem ContentRef="schedule-2-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/2/paragraph/4" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/2/paragraph/4" RestrictExtent="S">
+					<ContentsNumber>4</ContentsNumber>
+					<ContentsTitle Generated="true">(1) In relation to the First-tier Tribunal— </ContentsTitle>
+				</ContentsItem>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 3</ContentsNumber>
+				<ContentsTitle>Appointment to First-tier Tribunal</ContentsTitle>
+				<ContentsPart ContentRef="schedule-3-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>Ordinary members</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-3-part-1-crossheading-appointment-and-eligibility"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/part/1/crossheading/appointment-and-eligibility" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/part/1/crossheading/appointment-and-eligibility" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Appointment and eligibility</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-3-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/1" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/1" RestrictExtent="S">
+							<ContentsNumber>1</ContentsNumber>
+							<ContentsTitle Generated="true">(1) It is for the Scottish Ministers to appoint a...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-3-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/2" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/2" RestrictExtent="S">
+							<ContentsNumber>2</ContentsNumber>
+							<ContentsTitle Generated="true">In paragraph 1(2), “relevant criteria” includes criteria as to qualifications,...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-3-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Legal members</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-3-part-2-crossheading-application-of-part" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/part/2/crossheading/application-of-part"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/part/2/crossheading/application-of-part" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Application of Part</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-3-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/3" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/3" RestrictExtent="S">
+							<ContentsNumber>3</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This schedule Part applies in relation to appointment of...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-3-part-2-crossheading-appointment-and-eligibility"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/part/2/crossheading/appointment-and-eligibility" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/part/2/crossheading/appointment-and-eligibility" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Appointment and eligibility</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-3-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/4" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/4" RestrictExtent="S">
+							<ContentsNumber>4</ContentsNumber>
+							<ContentsTitle Generated="true">(1) It is for the Scottish Ministers to appoint a...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-3-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/5" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/5" RestrictExtent="S">
+							<ContentsNumber>5</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A person qualifies under this sub-paragraph if the person...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-3-part-2-crossheading-eligibility-under-regulations"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/part/2/crossheading/eligibility-under-regulations" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/part/2/crossheading/eligibility-under-regulations" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Eligibility under regulations</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-3-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/6" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/6" RestrictExtent="S">
+							<ContentsNumber>6</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Regulations under paragraph 5(2) may specify a description of...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-3-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/3/paragraph/7" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/3/paragraph/7" RestrictExtent="S">
+							<ContentsNumber>7</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Scottish Ministers may by regulations make provision— </ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 4</ContentsNumber>
+				<ContentsTitle>Positions in First-tier Tribunal</ContentsTitle>
+				<ContentsPart ContentRef="schedule-4-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>Deputy or Temporary President</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-4-part-1-crossheading-deputy-president" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/1/crossheading/deputy-president"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/1/crossheading/deputy-president" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Deputy President</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-4-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/1" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/1" RestrictExtent="S">
+							<ContentsNumber>1</ContentsNumber>
+							<ContentsTitle Generated="true">If requested to do so by the President of Tribunals,...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-4-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/2" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/2" RestrictExtent="S">
+							<ContentsNumber>2</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A person is eligible for appointment as a Deputy...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-4-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/3" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/3" RestrictExtent="S">
+							<ContentsNumber>3</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The functions of a Chamber President are exercisable by...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-4-part-1-crossheading-temporary-president" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/1/crossheading/temporary-president"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/1/crossheading/temporary-president" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Temporary President</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-4-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/4" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/4" RestrictExtent="S">
+							<ContentsNumber>4</ContentsNumber>
+							<ContentsTitle Generated="true">If there is a temporary vacancy in the presidency of...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-4-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/5" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/5" RestrictExtent="S">
+							<ContentsNumber>5</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A person is eligible to be assigned as a...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-4-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Assignment internally</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-4-part-2-crossheading-assignment-by-the-president-of-tribunals"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/2/crossheading/assignment-by-the-president-of-tribunals" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/2/crossheading/assignment-by-the-president-of-tribunals" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment by the President of Tribunals</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-4-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/6" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/6" RestrictExtent="S">
+							<ContentsNumber>6</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The President of Tribunals has the function of assigning...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-4-part-2-crossheading-assignment-of-chamber-presidents"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/2/crossheading/assignment-of-chamber-presidents" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/2/crossheading/assignment-of-chamber-presidents" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of Chamber Presidents</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-4-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/7" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/7" RestrictExtent="S">
+							<ContentsNumber>7</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A Chamber President of a chamber— </ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-4-part-2-crossheading-assignment-of-other-members"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/2/crossheading/assignment-of-other-members" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/2/crossheading/assignment-of-other-members" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of other members</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-4-paragraph-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/8" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/8" RestrictExtent="S">
+							<ContentsNumber>8</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This paragraph applies in relation to an ordinary member...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-4-part-2-crossheading-assignment-of-judicial-members"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/part/2/crossheading/assignment-of-judicial-members" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/part/2/crossheading/assignment-of-judicial-members" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of judicial members</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-4-paragraph-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/4/paragraph/9" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/4/paragraph/9" RestrictExtent="S">
+							<ContentsNumber>9</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A judicial member is to be assigned to at...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 5</ContentsNumber>
+				<ContentsTitle>Appointment to Upper Tribunal</ContentsTitle>
+				<ContentsPart ContentRef="schedule-5-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>Ordinary members</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-5-part-1-crossheading-appointment-and-eligibility"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/part/1/crossheading/appointment-and-eligibility" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/part/1/crossheading/appointment-and-eligibility" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Appointment and eligibility</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-5-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/1" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/1" RestrictExtent="S">
+							<ContentsNumber>1</ContentsNumber>
+							<ContentsTitle Generated="true">(1) It is for the Scottish Ministers to appoint a...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-5-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/2" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/2" RestrictExtent="S">
+							<ContentsNumber>2</ContentsNumber>
+							<ContentsTitle Generated="true">In paragraph 1(2), “relevant criteria” includes criteria as to qualifications,...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-5-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Legal members</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-5-part-2-crossheading-application-of-part" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/part/2/crossheading/application-of-part"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/part/2/crossheading/application-of-part" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Application of Part</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-5-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/3" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/3" RestrictExtent="S">
+							<ContentsNumber>3</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This schedule Part applies in relation to appointment of...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-5-part-2-crossheading-appointment-and-eligibility"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/part/2/crossheading/appointment-and-eligibility" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/part/2/crossheading/appointment-and-eligibility" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Appointment and eligibility</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-5-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/4" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/4" RestrictExtent="S">
+							<ContentsNumber>4</ContentsNumber>
+							<ContentsTitle Generated="true">(1) It is for the Scottish Ministers to appoint a...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-5-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/5" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/5" RestrictExtent="S">
+							<ContentsNumber>5</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A person qualifies under this sub-paragraph if the person...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-5-part-2-crossheading-eligibility-under-regulations"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/part/2/crossheading/eligibility-under-regulations" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/part/2/crossheading/eligibility-under-regulations" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Eligibility under regulations</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-5-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/6" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/6" RestrictExtent="S">
+							<ContentsNumber>6</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Regulations under paragraph 5(2) may specify a description of...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-5-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/5/paragraph/7" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/7" RestrictExtent="S">
+							<ContentsNumber>7</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Scottish Ministers may by regulations make provision— </ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 6</ContentsNumber>
+				<ContentsTitle>Positions in Upper Tribunal</ContentsTitle>
+				<ContentsPart ContentRef="schedule-6-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>Temporary Vice-President</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-6-part-1-crossheading-temporary-vicepresident"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/1/crossheading/temporary-vicepresident" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/1/crossheading/temporary-vicepresident" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Temporary Vice-President</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-6-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/1" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/1" RestrictExtent="S">
+							<ContentsNumber>1</ContentsNumber>
+							<ContentsTitle Generated="true">If there is a temporary shortage in the number of...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-6-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/2" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/2" RestrictExtent="S">
+							<ContentsNumber>2</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A person is eligible for assignment as a Temporary...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-6-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Assignment internally</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-6-part-2-crossheading-assignment-of-and-by-the-president-of-tribunals"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-and-by-the-president-of-tribunals" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-and-by-the-president-of-tribunals" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of and by the President of Tribunals</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-6-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/3" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/3" RestrictExtent="S">
+							<ContentsNumber>3</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The President of Tribunals has the function of assigning...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-6-part-2-crossheading-assignment-of-vicepresidents-etc"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-vicepresidents-etc" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-vicepresidents-etc" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of Vice-Presidents etc.</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-6-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/4" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/4" RestrictExtent="S">
+							<ContentsNumber>4</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A Vice-President of a division— (a) is to be...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-6-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/5" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/5" RestrictExtent="S">
+							<ContentsNumber>5</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This paragraph applies in relation to a legal member...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-6-part-2-crossheading-assignment-of-other-members"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-other-members" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-other-members" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of other members</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-6-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/6" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/6" RestrictExtent="S">
+							<ContentsNumber>6</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This paragraph applies in relation to an ordinary member...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-6-part-2-crossheading-assignment-of-judicial-members-etc"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-judicial-members-etc" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/part/2/crossheading/assignment-of-judicial-members-etc" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Assignment of judicial members etc.</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-6-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/6/paragraph/7" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/7" RestrictExtent="S">
+							<ContentsNumber>7</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A judicial member is to be assigned to at...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 7</ContentsNumber>
+				<ContentsTitle>Conditions of membership etc.</ContentsTitle>
+				<ContentsPblock ContentRef="schedule-7-crossheading-application-of-schedule" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/application-of-schedule" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/application-of-schedule" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Application of schedule</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/1" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/1" RestrictExtent="S">
+						<ContentsNumber>1</ContentsNumber>
+						<ContentsTitle Generated="true">(1) This schedule applies in relation to the positions of...</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-initial-period-of-office" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/initial-period-of-office"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/initial-period-of-office" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Initial period of office</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/2" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/2" RestrictExtent="S">
+						<ContentsNumber>2</ContentsNumber>
+						<ContentsTitle Generated="true">(1) A person who is appointed to a position in...</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-7-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/3" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/3" RestrictExtent="S">
+						<ContentsNumber>3</ContentsNumber>
+						<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies where a person— </ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-automatic-reappointment" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/automatic-reappointment" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/automatic-reappointment" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Automatic reappointment</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/4" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/4" RestrictExtent="S">
+						<ContentsNumber>4</ContentsNumber>
+						<ContentsTitle Generated="true">(1) Unless sub-paragraph (3) applies, a member of the Scottish...</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-7-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/5" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/5" RestrictExtent="S">
+						<ContentsNumber>5</ContentsNumber>
+						<ContentsTitle Generated="true">For the purpose of paragraph 4(3)(b), a member is ineligible...</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-7-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/6" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/6" RestrictExtent="S">
+						<ContentsNumber>6</ContentsNumber>
+						<ContentsTitle Generated="true">For the purpose of paragraph 4(3)(c), the President of Tribunals...</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-7-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/7" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/7" RestrictExtent="S">
+						<ContentsNumber>7</ContentsNumber>
+						<ContentsTitle Generated="true">Reappointment by virtue of paragraph 4 is not subject to...</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-extension-in-senior-post" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/extension-in-senior-post"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/extension-in-senior-post" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Extension in senior post</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/8" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/8" RestrictExtent="S">
+						<ContentsNumber>8</ContentsNumber>
+						<ContentsTitle Generated="true">(1) Sub-paragraphs (2) and (3) apply where— </ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-termination-of-appointment" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/termination-of-appointment"
+					Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/termination-of-appointment" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Termination of appointment</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/9" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/9" RestrictExtent="S">
+						<ContentsNumber>9</ContentsNumber>
+						<ContentsTitle Generated="true">A member of the Scottish Tribunals ceases to hold the...</ContentsTitle>
+					</ContentsItem>
+					<ContentsItem ContentRef="schedule-7-paragraph-10" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/10" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/10" RestrictExtent="S">
+						<ContentsNumber>10</ContentsNumber>
+						<ContentsTitle Generated="true">(1) Nothing in paragraphs 2 to 8 affects the operation...</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-required-oaths" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/required-oaths" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/required-oaths" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Required oaths</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-11" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/11" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/11" RestrictExtent="S">
+						<ContentsNumber>11</ContentsNumber>
+						<ContentsTitle Generated="true">(1) Each of the members of the Scottish Tribunals must...</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-pensions-etc" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/pensions-etc" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/pensions-etc" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Pensions etc.</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-12" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/12" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/12" RestrictExtent="S">
+						<ContentsNumber>12</ContentsNumber>
+						<ContentsTitle Generated="true">(1) The Scottish Ministers may make arrangements as to— </ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+				<ContentsPblock ContentRef="schedule-7-crossheading-other-conditions" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/crossheading/other-conditions" Match="false"
+					Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/crossheading/other-conditions" RestrictExtent="S">
+					<ContentsTitle>
+						<Emphasis>Other conditions</Emphasis>
+					</ContentsTitle>
+					<ContentsItem ContentRef="schedule-7-paragraph-13" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/7/paragraph/13" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/7/paragraph/13" RestrictExtent="S">
+						<ContentsNumber>13</ContentsNumber>
+						<ContentsTitle Generated="true">(1) Other than as provided for elsewhere in this Act...</ContentsTitle>
+					</ContentsItem>
+				</ContentsPblock>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 8</ContentsNumber>
+				<ContentsTitle>Conduct and fitness etc.</ContentsTitle>
+				<ContentsPart ContentRef="schedule-8-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>Conduct and discipline</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-8-part-1-crossheading-application-of-part" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/1/crossheading/application-of-part"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/1/crossheading/application-of-part" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Application of Part</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/1" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/1" RestrictExtent="S">
+							<ContentsNumber>1</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This schedule Part applies in relation to the ordinary...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-1-crossheading-conduct-rules" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/1/crossheading/conduct-rules" Match="false"
+						Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/1/crossheading/conduct-rules" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Conduct rules</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/2" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/2" RestrictExtent="S">
+							<ContentsNumber>2</ContentsNumber>
+							<ContentsTitle Generated="true">The Lord President is responsible for making and maintaining appropriate...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/3" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/3" RestrictExtent="S">
+							<ContentsNumber>3</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Lord President may make rules for the purposes...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/4" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/4" RestrictExtent="S">
+							<ContentsNumber>4</ContentsNumber>
+							<ContentsTitle Generated="true">Rules under paragraph 3(1)— (a) may make different provision for...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-1-crossheading-reprimand-etc" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/1/crossheading/reprimand-etc" Match="false"
+						Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/1/crossheading/reprimand-etc" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Reprimand etc.</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/5" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/5" RestrictExtent="S">
+							<ContentsNumber>5</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Where the condition in sub-paragraph (2) is met in...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/6" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/6" RestrictExtent="S">
+							<ContentsNumber>6</ContentsNumber>
+							<ContentsTitle Generated="true">Paragraph 5 does not limit what the Lord President may...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-1-crossheading-suspension-of-membership"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/1/crossheading/suspension-of-membership" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/1/crossheading/suspension-of-membership" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Suspension of membership</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/7" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/7" RestrictExtent="S">
+							<ContentsNumber>7</ContentsNumber>
+							<ContentsTitle Generated="true">(1) If the Lord President considers that it is necessary...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/8" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/8" RestrictExtent="S">
+							<ContentsNumber>8</ContentsNumber>
+							<ContentsTitle Generated="true">Suspension under paragraph 7(1) does not affect any remuneration payable...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-1-crossheading-judicial-complaints-reviewer"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/1/crossheading/judicial-complaints-reviewer" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/1/crossheading/judicial-complaints-reviewer" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Judicial Complaints Reviewer</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/9" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/9" RestrictExtent="S">
+							<ContentsNumber>9</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Judicial Complaints Reviewer has the functions mentioned in...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-10" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/10" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/10" RestrictExtent="S">
+							<ContentsNumber>10</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies where a case is referred to...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-8-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Fitness and removal</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-8-part-2-crossheading-application-of-part" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2/crossheading/application-of-part"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2/crossheading/application-of-part" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Application of Part</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-11" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/11" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/11" RestrictExtent="S">
+							<ContentsNumber>11</ContentsNumber>
+							<ContentsTitle Generated="true">(1) This schedule Part applies in relation to the ordinary...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-12" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/12" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/12" RestrictExtent="S">
+							<ContentsNumber>12</ContentsNumber>
+							<ContentsTitle Generated="true">In this schedule Part, the references to unfitness to hold...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-2-crossheading-constitution-and-procedure"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2/crossheading/constitution-and-procedure" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2/crossheading/constitution-and-procedure" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Constitution and procedure</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-13" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/13" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/13" RestrictExtent="S">
+							<ContentsNumber>13</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The First Minister must constitute a fitness assessment tribunal...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-14" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/14" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/14" RestrictExtent="S">
+							<ContentsNumber>14</ContentsNumber>
+							<ContentsTitle Generated="true">The Court of Session may by act of sederunt make...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-2-crossheading-composition-and-remuneration"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2/crossheading/composition-and-remuneration" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2/crossheading/composition-and-remuneration" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Composition and remuneration</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-15" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/15" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/15" RestrictExtent="S">
+							<ContentsNumber>15</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A fitness assessment tribunal is to consist of— </ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-16" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/16" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/16" RestrictExtent="S">
+							<ContentsNumber>16</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Scottish Ministers— (a) must pay such expenses as...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-2-crossheading-proceedings-before-tribunal"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2/crossheading/proceedings-before-tribunal" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2/crossheading/proceedings-before-tribunal" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Proceedings before tribunal</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-17" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/17" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/17" RestrictExtent="S">
+							<ContentsNumber>17</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A fitness assessment tribunal may require any person— </ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-18" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/18" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/18" RestrictExtent="S">
+							<ContentsNumber>18</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies where a person on whom a...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-2-crossheading-suspension-during-investigation"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2/crossheading/suspension-during-investigation" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2/crossheading/suspension-during-investigation" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Suspension during investigation</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-19" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/19" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/19" RestrictExtent="S">
+							<ContentsNumber>19</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies if the Lord President requests the...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-20" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/20" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/20" RestrictExtent="S">
+							<ContentsNumber>20</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies if a fitness assessment tribunal— </ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-21" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/21" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/21" RestrictExtent="S">
+							<ContentsNumber>21</ContentsNumber>
+							<ContentsTitle Generated="true">Suspension under paragraph 19(2) or 20(2) does not affect any...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-8-part-2-crossheading-report-and-removal" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/part/2/crossheading/report-and-removal"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/part/2/crossheading/report-and-removal" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Report and removal</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-8-paragraph-22" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/22" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/22" RestrictExtent="S">
+							<ContentsNumber>22</ContentsNumber>
+							<ContentsTitle Generated="true">(1) A report by a fitness assessment tribunal must— </ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-8-paragraph-23" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/8/paragraph/23" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/8/paragraph/23" RestrictExtent="S">
+							<ContentsNumber>23</ContentsNumber>
+							<ContentsTitle Generated="true">(1) If the relevant condition is met, the First Minister...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9" Match="false" Status="Prospective"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 9</ContentsNumber>
+				<ContentsTitle>Transitional and consequential</ContentsTitle>
+				<ContentsPart ContentRef="schedule-9-part-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1" RestrictExtent="S">
+					<ContentsNumber>PART 1</ContentsNumber>
+					<ContentsTitle>Transitional and other matters</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-9-part-1-crossheading-exercise-of-functions" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1/crossheading/exercise-of-functions"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1/crossheading/exercise-of-functions" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Exercise of functions</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-1" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/1" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/1" RestrictExtent="S">
+							<ContentsNumber>1</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies for the purposes of— </ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-1-crossheading-rules-of-listed-tribunals"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1/crossheading/rules-of-listed-tribunals" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1/crossheading/rules-of-listed-tribunals" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Rules of listed tribunals</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/2" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/2" RestrictExtent="S">
+							<ContentsNumber>2</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies where some or all of the...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-9-paragraph-3" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/3" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/3" RestrictExtent="S">
+							<ContentsNumber>3</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Regulations under paragraph 2(2) may— (a) make different provision...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-1-crossheading-prescjc-rulemaking" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1/crossheading/prescjc-rulemaking"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1/crossheading/prescjc-rulemaking" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Pre-SCJC rule-making</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-4" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/4" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/4" RestrictExtent="S">
+							<ContentsNumber>4</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Until the Scottish Civil Justice Council and the Court...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-9-paragraph-5" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/5" Match="false" Status="Prospective" ConfersPower="true"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/5" RestrictExtent="S">
+							<ContentsNumber>5</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Regulations under paragraph 4(2) may— (a) modify rules having...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-1-crossheading-adoption-of-inherited-rules"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1/crossheading/adoption-of-inherited-rules" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1/crossheading/adoption-of-inherited-rules" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Adoption of inherited rules</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-6" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/6" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/6" RestrictExtent="S">
+							<ContentsNumber>6</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sub-paragraph (2) applies to— (a) rules having effect as...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-1-crossheading-chambers-and-divisions" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1/crossheading/chambers-and-divisions"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1/crossheading/chambers-and-divisions" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Chambers and divisions</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-7" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/7" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/7" RestrictExtent="S">
+							<ContentsNumber>7</ContentsNumber>
+							<ContentsTitle Generated="true">(1) For as long as it appears to the Scottish...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-9-paragraph-8" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/8" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8" RestrictExtent="S">
+							<ContentsNumber>8</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Sections 20(1) and (2) and 23(1) and (2) are...</ContentsTitle>
+						</ContentsItem>
+						<ContentsItem ContentRef="schedule-9-paragraph-9" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/9" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/9" RestrictExtent="S">
+							<ContentsNumber>9</ContentsNumber>
+							<ContentsTitle Generated="true">For the purposes of paragraph 7(1) and (2), the Scottish...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-1-crossheading-making-appointments" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/1/crossheading/making-appointments"
+						Match="false" Status="Prospective" DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/1/crossheading/making-appointments" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Making appointments</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-10" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/10" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/10" RestrictExtent="S">
+							<ContentsNumber>10</ContentsNumber>
+							<ContentsTitle Generated="true">(1) Until all of the functions of a listed tribunal...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+				<ContentsPart ContentRef="schedule-9-part-2" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/2" Match="false" Status="Prospective"
+					DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/2" RestrictExtent="S">
+					<ContentsNumber>PART 2</ContentsNumber>
+					<ContentsTitle>Consequential modifications</ContentsTitle>
+					<ContentsPblock ContentRef="schedule-9-part-2-crossheading-judicial-pensions-and-retirement-act-1993"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/2/crossheading/judicial-pensions-and-retirement-act-1993" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/2/crossheading/judicial-pensions-and-retirement-act-1993" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Judicial Pensions and Retirement Act 1993</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-11" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/11" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/11" RestrictExtent="S">
+							<ContentsNumber>11</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Judicial Pensions and Retirement Act 1993 is amended...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-2-crossheading-judiciary-and-courts-scotland-act-2008"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/2/crossheading/judiciary-and-courts-scotland-act-2008" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/2/crossheading/judiciary-and-courts-scotland-act-2008" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Judiciary and Courts (Scotland) Act 2008</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-12" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/12" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12" RestrictExtent="S">
+							<ContentsNumber>12</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Judiciary and Courts (Scotland) Act 2008 is amended...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+					<ContentsPblock ContentRef="schedule-9-part-2-crossheading-scottish-civil-justice-council-and-criminal-legal-assistance-act-2013"
+						IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/part/2/crossheading/scottish-civil-justice-council-and-criminal-legal-assistance-act-2013" Match="false" Status="Prospective"
+						DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/part/2/crossheading/scottish-civil-justice-council-and-criminal-legal-assistance-act-2013" RestrictExtent="S">
+						<ContentsTitle>
+							<Emphasis>Scottish Civil Justice Council and Criminal Legal Assistance Act 2013</Emphasis>
+						</ContentsTitle>
+						<ContentsItem ContentRef="schedule-9-paragraph-13" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/9/paragraph/13" Match="false" Status="Prospective"
+							DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/13" RestrictExtent="S">
+							<ContentsNumber>13</ContentsNumber>
+							<ContentsTitle Generated="true">(1) The Scottish Civil Justice Council and Criminal Legal Assistance...</ContentsTitle>
+						</ContentsItem>
+					</ContentsPblock>
+				</ContentsPart>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-10" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/schedule/10" RestrictStartDate="2014-04-16"
+				DocumentURI="http://www.legislation.gov.uk/asp/2014/10/schedule/10" RestrictExtent="S">
+				<ContentsNumber>SCHEDULE 10</ContentsNumber>
+				<ContentsTitle>Index of expressions</ContentsTitle>
+			</ContentsSchedule>
+		</ContentsSchedules>
+	</Contents>
+	<Primary>
+		<PrimaryPrelims DocumentURI="http://www.legislation.gov.uk/asp/2014/10/introduction" IdURI="http://www.legislation.gov.uk/id/asp/2014/10/introduction" RestrictStartDate="2014-04-16">
+			<Title>Tribunals (Scotland) Act 2014</Title>
+			<Number>2014 asp 10</Number>
+			<LongTitle>An Act of the Scottish Parliament to establish the First-tier Tribunal for Scotland and the Upper Tribunal for Scotland; and for connected purposes.</LongTitle>
+			<DateOfEnactment>
+				<DateText>The Bill for this Act of the Scottish Parliament was passed by the Parliament on 11th March 2014 and received Royal Assent on 15th April 2014</DateText>
+			</DateOfEnactment>
+		</PrimaryPrelims>
+	</Primary>
+</Legislation>

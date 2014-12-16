@@ -1,0 +1,28 @@
+<form class="form-horizontal"><!-- {url: '', html: {class: 'form-horizontal', style: 'width:615px'}} do |f| %>-->
+
+  <div class="form-inputs mercury-display-pane-container">
+
+    <fieldset>
+      <legend>Options</legend>
+      <div class="control-group string optional">
+        <label class="string optional control-label" for="options_first_name">Title</label>
+        <div class="controls">
+          <input class="span6 string optional" id="options_first_name" name="title" size="50" type="text" value="<?php print $_POST["title"] ?>">
+        </div>
+      </div>
+  
+  
+      <div class="control-group string optional">
+        <label class="string optional control-label" for="options_favorite_beer">Paragraph</label>
+        <div class="controls">
+          <input class="span6 string optional" id="options_favorite_beer" name="paragraph" size="50" type="text" value="<?php print $_POST["paragraph"] ?>">
+        </div>
+      </div>
+    </fieldset>
+  </div>
+
+  <div class="form-actions mercury-display-controls">
+    <input class="btn btn-primary" name="commit" type="submit" value="Insert Snippet"/>
+  </div>
+
+</form>

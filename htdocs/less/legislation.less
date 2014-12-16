@@ -1,0 +1,89 @@
+/*
+ *
+ * Legislation
+ * https://github.com/legislation/ 
+ *
+ * Copyright (c) 2014 
+ * Licensed under the GNU Public License (GPL)
+ * http://www.gnu.org/licenses
+ *
+ * Designed and built by TSO.
+ *
+ * HTML5 Legislation Drafting is free software: you can redistribute it
+ * and/or modify it under the terms of the GNU General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ * 
+ * HTML5 Legislation Drafting is distributed in the hope that it will be
+ * useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * For the GNU General Public License, please see http://www.gnu.org/licenses/
+ *  
+ */
+
+/*.Legislation{
+	font-family: Times,serif;
+}*/
+.PrimaryPrelims{
+	text-align:center;
+	.LongTitle,.EnactingText{
+		text-align: left;
+	}
+	.DateOfEnactment{
+		text-align: right;
+	}
+}
+.Pblock > .Title{
+	text-align:center;
+	font-weight: normal;
+	font-style: italic;
+	width:95%;
+}
+ol.P1group{
+	padding-left: 0px;	
+	margin-left: 0px;	
+}
+
+
+.P1group h5{
+	font-weight: bold;
+	width:100%;
+	margin-top:10px;
+	position:relative;
+	.number{
+		width:auto;
+	}
+	.editable{
+		display:block;
+		clear:none;
+		width:90%;
+		margin-left:5%;
+		margin-top:-18.71875px
+	}
+}
+/*.P1group_content{
+	ol{
+		counter-reset: o-counter;
+		list-style-type: none;
+
+		li:before{
+			content: '(' counter(o-counter) ')';
+			counter-increment: o-counter;
+		}
+		ol{
+			li:before{
+				content: '(' counter(o-counter,lower-alpha) ')';
+				counter-increment: o-counter;
+			}
+			ol{
+
+				li:before{
+					content: '(' counter(o-counter,lower-roman) ')';
+					counter-increment: o-counter;
+				}
+			}
+		}
+	}
+}*/

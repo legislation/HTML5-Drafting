@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:theme="http://www.legislation.gov.uk/namespaces/theme" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:parameters="http://a9.com/-/spec/opensearch/extensions/parameters/1.0/">
+	<id>http://legislation.data.gov.uk/search/data.feed?year=2014&amp;title=Scotland</id>
+	<link rel="self" type="application/atom+xml" href="http://legislation.data.gov.uk/search/data.feed?year=2014&amp;title=Scotland"/>
+	<updated>2014-08-11T11:23:43.705</updated>
+	<title>Search Results</title>
+	<openSearch:Query role="request" leg:type="*" leg:year="2014" leg:title="Scotland"> </openSearch:Query>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<leg:page>1</leg:page>
+	<leg:morePages>10</leg:morePages>
+	<leg:facets>
+		<leg:facetTypes>
+			<leg:facetType type="ScottishStatutoryInstrument" href="http://legislation.data.gov.uk/search/data.feed?type=ssi&amp;year=2014&amp;title=Scotland" value="162"/>
+			<leg:facetType type="ScottishAct" href="http://legislation.data.gov.uk/search/data.feed?type=asp&amp;year=2014&amp;title=Scotland" value="13"/>
+			<leg:facetType type="UnitedKingdomStatutoryInstrument" href="http://legislation.data.gov.uk/search/data.feed?type=uksi&amp;year=2014&amp;title=Scotland" value="13"/>
+		</leg:facetTypes>
+		<leg:facetYears remove="http://legislation.data.gov.uk/title/scotland/data.feed">
+			<leg:facetYear year="2014" href="http://legislation.data.gov.uk/search/data.feed?year=2014&amp;title=Scotland" total="188" value="188"/>
+			<leg:facetYear year="2013" href="http://legislation.data.gov.uk/search/data.feed?year=2013&amp;title=Scotland" total="299"/>
+			<leg:facetYear year="2012" href="http://legislation.data.gov.uk/search/data.feed?year=2012&amp;title=Scotland" total="285"/>
+			<leg:facetYear year="2011" href="http://legislation.data.gov.uk/search/data.feed?year=2011&amp;title=Scotland" total="315"/>
+			<leg:facetYear year="2010" href="http://legislation.data.gov.uk/search/data.feed?year=2010&amp;title=Scotland" total="327"/>
+			<leg:facetYear year="2009" href="http://legislation.data.gov.uk/search/data.feed?year=2009&amp;title=Scotland" total="307"/>
+			<leg:facetYear year="2008" href="http://legislation.data.gov.uk/search/data.feed?year=2008&amp;title=Scotland" total="304"/>
+			<leg:facetYear year="2007" href="http://legislation.data.gov.uk/search/data.feed?year=2007&amp;title=Scotland" total="425"/>
+			<leg:facetYear year="2006" href="http://legislation.data.gov.uk/search/data.feed?year=2006&amp;title=Scotland" total="396"/>
+			<leg:facetYear year="2005" href="http://legislation.data.gov.uk/search/data.feed?year=2005&amp;title=Scotland" total="451"/>
+			<leg:facetYear year="2004" href="http://legislation.data.gov.uk/search/data.feed?year=2004&amp;title=Scotland" total="407"/>
+			<leg:facetYear year="2003" href="http://legislation.data.gov.uk/search/data.feed?year=2003&amp;title=Scotland" total="387"/>
+			<leg:facetYear year="2002" href="http://legislation.data.gov.uk/search/data.feed?year=2002&amp;title=Scotland" total="355"/>
+			<leg:facetYear year="2001" href="http://legislation.data.gov.uk/search/data.feed?year=2001&amp;title=Scotland" total="373"/>
+			<leg:facetYear year="2000" href="http://legislation.data.gov.uk/search/data.feed?year=2000&amp;title=Scotland" total="292"/>
+			<leg:facetYear year="1999" href="http://legislation.data.gov.uk/search/data.feed?year=1999&amp;title=Scotland" total="181"/>
+			<leg:facetYear year="1998" href="http://legislation.data.gov.uk/search/data.feed?year=1998&amp;title=Scotland" total="122"/>
+			<leg:facetYear year="1997" href="http://legislation.data.gov.uk/search/data.feed?year=1997&amp;title=Scotland" total="157"/>
+			<leg:facetYear year="1996" href="http://legislation.data.gov.uk/search/data.feed?year=1996&amp;title=Scotland" total="180"/>
+			<leg:facetYear year="1995" href="http://legislation.data.gov.uk/search/data.feed?year=1995&amp;title=Scotland" total="182"/>
+			<leg:facetYear year="1994" href="http://legislation.data.gov.uk/search/data.feed?year=1994&amp;title=Scotland" total="150"/>
+			<leg:facetYear year="1993" href="http://legislation.data.gov.uk/search/data.feed?year=1993&amp;title=Scotland" total="190"/>
+			<leg:facetYear year="1992" href="http://legislation.data.gov.uk/search/data.feed?year=1992&amp;title=Scotland" total="182"/>
+			<leg:facetYear year="1991" href="http://legislation.data.gov.uk/search/data.feed?year=1991&amp;title=Scotland" total="156"/>
+			<leg:facetYear year="1990" href="http://legislation.data.gov.uk/search/data.feed?year=1990&amp;title=Scotland" total="171"/>
+			<leg:facetYear year="1989" href="http://legislation.data.gov.uk/search/data.feed?year=1989&amp;title=Scotland" total="129"/>
+			<leg:facetYear year="1988" href="http://legislation.data.gov.uk/search/data.feed?year=1988&amp;title=Scotland" total="174"/>
+			<leg:facetYear year="1987" href="http://legislation.data.gov.uk/search/data.feed?year=1987&amp;title=Scotland" total="129"/>
+			<leg:facetYear year="1986" href="http://legislation.data.gov.uk/search/data.feed?year=1986&amp;title=Scotland" total="116"/>
+			<leg:facetYear year="1985" href="http://legislation.data.gov.uk/search/data.feed?year=1985&amp;title=Scotland" total="125"/>
+			<leg:facetYear year="1984" href="http://legislation.data.gov.uk/search/data.feed?year=1984&amp;title=Scotland" total="122"/>
+			<leg:facetYear year="1983" href="http://legislation.data.gov.uk/search/data.feed?year=1983&amp;title=Scotland" total="121"/>
+			<leg:facetYear year="1982" href="http://legislation.data.gov.uk/search/data.feed?year=1982&amp;title=Scotland" total="137"/>
+			<leg:facetYear year="1981" href="http://legislation.data.gov.uk/search/data.feed?year=1981&amp;title=Scotland" total="129"/>
+			<leg:facetYear year="1980" href="http://legislation.data.gov.uk/search/data.feed?year=1980&amp;title=Scotland" total="127"/>
+			<leg:facetYear year="1979" href="http://legislation.data.gov.uk/search/data.feed?year=1979&amp;title=Scotland" total="88"/>
+			<leg:facetYear year="1978" href="http://legislation.data.gov.uk/search/data.feed?year=1978&amp;title=Scotland" total="108"/>
+			<leg:facetYear year="1977" href="http://legislation.data.gov.uk/search/data.feed?year=1977&amp;title=Scotland" total="111"/>
+			<leg:facetYear year="1976" href="http://legislation.data.gov.uk/search/data.feed?year=1976&amp;title=Scotland" total="125"/>
+			<leg:facetYear year="1975" href="http://legislation.data.gov.uk/search/data.feed?year=1975&amp;title=Scotland" total="212"/>
+			<leg:facetYear year="1974" href="http://legislation.data.gov.uk/search/data.feed?year=1974&amp;title=Scotland" total="167"/>
+			<leg:facetYear year="1973" href="http://legislation.data.gov.uk/search/data.feed?year=1973&amp;title=Scotland" total="124"/>
+			<leg:facetYear year="1972" href="http://legislation.data.gov.uk/search/data.feed?year=1972&amp;title=Scotland" total="106"/>
+			<leg:facetYear year="1971" href="http://legislation.data.gov.uk/search/data.feed?year=1971&amp;title=Scotland" total="11"/>
+			<leg:facetYear year="1970" href="http://legislation.data.gov.uk/search/data.feed?year=1970&amp;title=Scotland" total="120"/>
+			<leg:facetYear year="1969" href="http://legislation.data.gov.uk/search/data.feed?year=1969&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1968" href="http://legislation.data.gov.uk/search/data.feed?year=1968&amp;title=Scotland" total="9"/>
+			<leg:facetYear year="1967" href="http://legislation.data.gov.uk/search/data.feed?year=1967&amp;title=Scotland" total="8"/>
+			<leg:facetYear year="1966" href="http://legislation.data.gov.uk/search/data.feed?year=1966&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1965" href="http://legislation.data.gov.uk/search/data.feed?year=1965&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1964" href="http://legislation.data.gov.uk/search/data.feed?year=1964&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1963" href="http://legislation.data.gov.uk/search/data.feed?year=1963&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1962" href="http://legislation.data.gov.uk/search/data.feed?year=1962&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1961" href="http://legislation.data.gov.uk/search/data.feed?year=1961&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1960" href="http://legislation.data.gov.uk/search/data.feed?year=1960&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1959" href="http://legislation.data.gov.uk/search/data.feed?year=1959&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1958" href="http://legislation.data.gov.uk/search/data.feed?year=1958&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1957" href="http://legislation.data.gov.uk/search/data.feed?year=1957&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1956" href="http://legislation.data.gov.uk/search/data.feed?year=1956&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1955" href="http://legislation.data.gov.uk/search/data.feed?year=1955&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1954" href="http://legislation.data.gov.uk/search/data.feed?year=1954&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1953" href="http://legislation.data.gov.uk/search/data.feed?year=1953&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1952" href="http://legislation.data.gov.uk/search/data.feed?year=1952&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1951" href="http://legislation.data.gov.uk/search/data.feed?year=1951&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1950" href="http://legislation.data.gov.uk/search/data.feed?year=1950&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1949" href="http://legislation.data.gov.uk/search/data.feed?year=1949&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1948" href="http://legislation.data.gov.uk/search/data.feed?year=1948&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1947" href="http://legislation.data.gov.uk/search/data.feed?year=1947&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1946" href="http://legislation.data.gov.uk/search/data.feed?year=1946&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1945" href="http://legislation.data.gov.uk/search/data.feed?year=1945&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1941" href="http://legislation.data.gov.uk/search/data.feed?year=1941&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1940" href="http://legislation.data.gov.uk/search/data.feed?year=1940&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1939" href="http://legislation.data.gov.uk/search/data.feed?year=1939&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1938" href="http://legislation.data.gov.uk/search/data.feed?year=1938&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1937" href="http://legislation.data.gov.uk/search/data.feed?year=1937&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1936" href="http://legislation.data.gov.uk/search/data.feed?year=1936&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1934" href="http://legislation.data.gov.uk/search/data.feed?year=1934&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1933" href="http://legislation.data.gov.uk/search/data.feed?year=1933&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1932" href="http://legislation.data.gov.uk/search/data.feed?year=1932&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1931" href="http://legislation.data.gov.uk/search/data.feed?year=1931&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1930" href="http://legislation.data.gov.uk/search/data.feed?year=1930&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1929" href="http://legislation.data.gov.uk/search/data.feed?year=1929&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1928" href="http://legislation.data.gov.uk/search/data.feed?year=1928&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1927" href="http://legislation.data.gov.uk/search/data.feed?year=1927&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1926" href="http://legislation.data.gov.uk/search/data.feed?year=1926&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1925" href="http://legislation.data.gov.uk/search/data.feed?year=1925&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1924" href="http://legislation.data.gov.uk/search/data.feed?year=1924&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1922" href="http://legislation.data.gov.uk/search/data.feed?year=1922&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1921" href="http://legislation.data.gov.uk/search/data.feed?year=1921&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1920" href="http://legislation.data.gov.uk/search/data.feed?year=1920&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1919" href="http://legislation.data.gov.uk/search/data.feed?year=1919&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1914" href="http://legislation.data.gov.uk/search/data.feed?year=1914&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1913" href="http://legislation.data.gov.uk/search/data.feed?year=1913&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1912" href="http://legislation.data.gov.uk/search/data.feed?year=1912&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1911" href="http://legislation.data.gov.uk/search/data.feed?year=1911&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1907" href="http://legislation.data.gov.uk/search/data.feed?year=1907&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1906" href="http://legislation.data.gov.uk/search/data.feed?year=1906&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1905" href="http://legislation.data.gov.uk/search/data.feed?year=1905&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1902" href="http://legislation.data.gov.uk/search/data.feed?year=1902&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1900" href="http://legislation.data.gov.uk/search/data.feed?year=1900&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1898" href="http://legislation.data.gov.uk/search/data.feed?year=1898&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1897" href="http://legislation.data.gov.uk/search/data.feed?year=1897&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1895" href="http://legislation.data.gov.uk/search/data.feed?year=1895&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1894" href="http://legislation.data.gov.uk/search/data.feed?year=1894&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1893" href="http://legislation.data.gov.uk/search/data.feed?year=1893&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1892" href="http://legislation.data.gov.uk/search/data.feed?year=1892&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1891" href="http://legislation.data.gov.uk/search/data.feed?year=1891&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1890" href="http://legislation.data.gov.uk/search/data.feed?year=1890&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1889" href="http://legislation.data.gov.uk/search/data.feed?year=1889&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1887" href="http://legislation.data.gov.uk/search/data.feed?year=1887&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1886" href="http://legislation.data.gov.uk/search/data.feed?year=1886&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1885" href="http://legislation.data.gov.uk/search/data.feed?year=1885&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1882" href="http://legislation.data.gov.uk/search/data.feed?year=1882&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1881" href="http://legislation.data.gov.uk/search/data.feed?year=1881&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1880" href="http://legislation.data.gov.uk/search/data.feed?year=1880&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1879" href="http://legislation.data.gov.uk/search/data.feed?year=1879&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1878" href="http://legislation.data.gov.uk/search/data.feed?year=1878&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1877" href="http://legislation.data.gov.uk/search/data.feed?year=1877&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1876" href="http://legislation.data.gov.uk/search/data.feed?year=1876&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1875" href="http://legislation.data.gov.uk/search/data.feed?year=1875&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1874" href="http://legislation.data.gov.uk/search/data.feed?year=1874&amp;title=Scotland" total="5"/>
+			<leg:facetYear year="1870" href="http://legislation.data.gov.uk/search/data.feed?year=1870&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1869" href="http://legislation.data.gov.uk/search/data.feed?year=1869&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1868" href="http://legislation.data.gov.uk/search/data.feed?year=1868&amp;title=Scotland" total="8"/>
+			<leg:facetYear year="1867" href="http://legislation.data.gov.uk/search/data.feed?year=1867&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1866" href="http://legislation.data.gov.uk/search/data.feed?year=1866&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1865" href="http://legislation.data.gov.uk/search/data.feed?year=1865&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1864" href="http://legislation.data.gov.uk/search/data.feed?year=1864&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1863" href="http://legislation.data.gov.uk/search/data.feed?year=1863&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1862" href="http://legislation.data.gov.uk/search/data.feed?year=1862&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1861" href="http://legislation.data.gov.uk/search/data.feed?year=1861&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1858" href="http://legislation.data.gov.uk/search/data.feed?year=1858&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1857" href="http://legislation.data.gov.uk/search/data.feed?year=1857&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1856" href="http://legislation.data.gov.uk/search/data.feed?year=1856&amp;title=Scotland" total="3"/>
+			<leg:facetYear year="1855" href="http://legislation.data.gov.uk/search/data.feed?year=1855&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1854" href="http://legislation.data.gov.uk/search/data.feed?year=1854&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1853" href="http://legislation.data.gov.uk/search/data.feed?year=1853&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1852" href="http://legislation.data.gov.uk/search/data.feed?year=1852&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1848" href="http://legislation.data.gov.uk/search/data.feed?year=1848&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1847" href="http://legislation.data.gov.uk/search/data.feed?year=1847&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1846" href="http://legislation.data.gov.uk/search/data.feed?year=1846&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1845" href="http://legislation.data.gov.uk/search/data.feed?year=1845&amp;title=Scotland" total="4"/>
+			<leg:facetYear year="1844" href="http://legislation.data.gov.uk/search/data.feed?year=1844&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1840" href="http://legislation.data.gov.uk/search/data.feed?year=1840&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1838" href="http://legislation.data.gov.uk/search/data.feed?year=1838&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1836" href="http://legislation.data.gov.uk/search/data.feed?year=1836&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1834" href="http://legislation.data.gov.uk/search/data.feed?year=1834&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1833" href="http://legislation.data.gov.uk/search/data.feed?year=1833&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1832" href="http://legislation.data.gov.uk/search/data.feed?year=1832&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1830" href="http://legislation.data.gov.uk/search/data.feed?year=1830&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1828" href="http://legislation.data.gov.uk/search/data.feed?year=1828&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1826" href="http://legislation.data.gov.uk/search/data.feed?year=1826&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1825" href="http://legislation.data.gov.uk/search/data.feed?year=1825&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1823" href="http://legislation.data.gov.uk/search/data.feed?year=1823&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1822" href="http://legislation.data.gov.uk/search/data.feed?year=1822&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1819" href="http://legislation.data.gov.uk/search/data.feed?year=1819&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1817" href="http://legislation.data.gov.uk/search/data.feed?year=1817&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1815" href="http://legislation.data.gov.uk/search/data.feed?year=1815&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1809" href="http://legislation.data.gov.uk/search/data.feed?year=1809&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1795" href="http://legislation.data.gov.uk/search/data.feed?year=1795&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1772" href="http://legislation.data.gov.uk/search/data.feed?year=1772&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1765" href="http://legislation.data.gov.uk/search/data.feed?year=1765&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1746" href="http://legislation.data.gov.uk/search/data.feed?year=1746&amp;title=Scotland" total="1"/>
+			<leg:facetYear year="1707" href="http://legislation.data.gov.uk/search/data.feed?year=1707&amp;title=Scotland" total="2"/>
+			<leg:facetYear year="1706" href="http://legislation.data.gov.uk/search/data.feed?year=1706&amp;title=Scotland" total="1"/>
+		</leg:facetYears>
+		<leg:facetHundreds/>
+	</leg:facets>
+	<leg:title>
+		<leg:term>Scotland</leg:term>
+	</leg:title>
+	<openSearch:totalResults>188</openSearch:totalResults>
+	<link rel="first" type="application/atom+xml" href="http://legislation.data.gov.uk/search/data.feed?year=2014&amp;title=Scotland"/>
+	<link rel="next" type="application/atom+xml" href="http://legislation.data.gov.uk/search/data.feed?year=2014&amp;title=Scotland&amp;page=2"/>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/14</id>
+		<title>Housing (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/14"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/14/enacted"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/14/enacted/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/14/enacted/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/14/enacted/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/14/enacted/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/14/contents/enacted" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-12T11:37:58.035+01:00</updated>
+		<published>2014-08-05T14:52:29.554+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="14"/>
+		<ukm:ISBN Value="9780105902287"/>
+		<ukm:CreationDate Date="2014-08-01"/>
+		<summary>An Act of the Scottish Parliament to make provision about housing, including provision about the abolition of the right to buy, social housing, the law affecting private housing, the
+			regulation of letting agents and the licensing of sites for mobile homes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/13</id>
+		<title>Buildings (Recovery of Expenses) (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/13"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/13/enacted"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/13/enacted/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/13/enacted/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/13/enacted/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/13/enacted/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/13/contents/enacted" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-12T11:37:58.035+01:00</updated>
+		<published>2014-07-25T14:07:18.885+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="13"/>
+		<ukm:ISBN Value="9780105902270"/>
+		<ukm:CreationDate Date="2014-07-24"/>
+		<summary>An Act of the Scottish Parliament to amend the Building (Scotland) Act 2003 to provide for expenses incurred by local authorities in connection with notices served or work carried out
+			under that Act to be recovered by way of charging order.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/12</id>
+		<title>Procurement Reform (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/12"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/12/2014-06-17"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/12/2014-06-17/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/12/2014-06-17/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/12/2014-06-17/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/12/2014-06-17/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/12/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-09T00:59:59+01:00</updated>
+		<published>2014-06-20T11:33:27.352+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="12"/>
+		<ukm:ISBN Value="9780105902232"/>
+		<ukm:CreationDate Date="2014-06-17"/>
+		<summary>An Act of the Scottish Parliament to make provision about the procedures relating to the award of certain public contracts; to require certain authorities to produce procurement
+			strategies and annual reports; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/11</id>
+		<title>Bankruptcy and Debt Advice (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/11"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/11/2014-04-30"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/11/2014-04-30/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/11/2014-04-30/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/11/2014-04-30/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/11/2014-04-30/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/11/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-06-04T00:59:59+01:00</updated>
+		<published>2014-04-30T09:06:33.842+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="11"/>
+		<ukm:ISBN Value="9780105902218"/>
+		<ukm:CreationDate Date="2014-04-29"/>
+		<summary>An Act of the Scottish Parliament to amend the Bankruptcy (Scotland) Act 1985; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/10</id>
+		<title>Tribunals (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/10"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/10/2014-04-16"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/10/2014-04-16/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/10/2014-04-16/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/10/2014-04-16/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/10/2014-04-16/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/10/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-05-21T00:59:59+01:00</updated>
+		<published>2014-04-24T09:09:19.4+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="10"/>
+		<ukm:ISBN Value="9780105902195"/>
+		<ukm:CreationDate Date="2014-04-15"/>
+		<summary>An Act of the Scottish Parliament to establish the First-tier Tribunal for Scotland and the Upper Tribunal for Scotland; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/9</id>
+		<title>Public Bodies (Joint Working) (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/9"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/9/2014-04-02"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/9/2014-04-02/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/9/2014-04-02/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/9/2014-04-02/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/9/2014-04-02/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/9/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-05-08T00:59:59+01:00</updated>
+		<published>2014-04-07T10:07:53.867+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="9"/>
+		<ukm:ISBN Value="9780105902188"/>
+		<ukm:CreationDate Date="2014-04-01"/>
+		<summary>An Act of the Scottish Parliament to make provision in relation to the carrying out of functions of local authorities and Health Boards; to make further provision about certain functions
+			of public bodies; to make further provision in relation to certain functions under the National Health Service (Scotland) Act 1978; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/8</id>
+		<title>Children and Young People (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/8"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/8/2014-03-28"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/8/2014-03-28/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/8/2014-03-28/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/8/2014-03-28/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/8/2014-03-28/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/8/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-06-18T00:59:59+01:00</updated>
+		<published>2014-03-31T11:26:33.581+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="8"/>
+		<ukm:ISBN Value="9780105902157"/>
+		<ukm:CreationDate Date="2014-03-27"/>
+		<summary>An Act of the Scottish Parliament to make provision about the rights of children and young people; to make provision about investigations by the Commissioner for Children and Young People
+			in Scotland; to make provision for and about the provision of services and support for or in relation to children and young people; to make provision for an adoption register; to make provision
+			about children's hearings, detention in secure accommodation and consultation on certain proposals in relation to schools; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/5</id>
+		<title>Marriage and Civil Partnership (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/5"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/5/2014-03-13"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/5/2014-03-13/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/5/2014-03-13/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/5/2014-03-13/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/5/2014-03-13/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/5/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-06-19T00:59:59+01:00</updated>
+		<published>2014-03-14T17:01:51.711+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="5"/>
+		<ukm:ISBN Value="9780105902126"/>
+		<ukm:CreationDate Date="2014-03-12"/>
+		<summary>An Act of the Scottish Parliament to make provision for the marriage of persons of the same sex; to make further provision as to the persons who may solemnise marriage and as to marriage
+			procedure and the places at which civil marriages may be solemnised; to make provision for the registration of civil partnerships by celebrants of religious or belief bodies; to make provision
+			about gender change by married persons and civil partners; to make a minor correction in relation to registration information; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/6</id>
+		<title>Budget (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/6"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/6/2014-03-13"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/6/2014-03-13/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/6/2014-03-13/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/6/2014-03-13/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/6/2014-03-13/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/6/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-04-24T00:59:59+01:00</updated>
+		<published>2014-03-14T17:01:55.83+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="6"/>
+		<ukm:ISBN Value="9780105902133"/>
+		<ukm:CreationDate Date="2014-03-12"/>
+		<summary>An Act of the Scottish Parliament to make provision, for financial year 2014/15, for the use of resources by the Scottish Administration and certain bodies whose expenditure is payable
+			out of the Scottish Consolidated Fund, for the maximum amounts of borrowing by certain statutory bodies and for authorising the payment of sums out of the Fund; to make provision, for financial
+			year 2015/16, for authorising the payment of sums out of the Fund on a temporary basis; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/4</id>
+		<title>Burrell Collection (Lending and Borrowing) (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/4"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/4/2014-02-26"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/4/2014-02-26/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/4/2014-02-26/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/4/2014-02-26/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/4/2014-02-26/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/4/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-03-12T00:59:59+01:00</updated>
+		<published>2014-02-27T11:17:09.827+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="4"/>
+		<ukm:ISBN Value="9780105902119"/>
+		<ukm:CreationDate Date="2014-02-25"/>
+		<summary>An Act of the Scottish Parliament to provide Glasgow City Council with additional powers to lend, including lending overseas, any items forming part of the Burrell Collection and to
+			receive items on loan from others in both cases with agreement of the charity trustees of the Sir William Burrell Trust in accordance with a published code.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/3</id>
+		<title>Regulatory Reform (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/3"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/3/2014-02-20"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/3/2014-02-20/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/3/2014-02-20/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/3/2014-02-20/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/3/2014-02-20/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/3/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-05-08T00:59:59+01:00</updated>
+		<published>2014-02-21T14:15:15.593+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="3"/>
+		<ukm:ISBN Value="9780105902102"/>
+		<ukm:CreationDate Date="2014-02-19"/>
+		<summary>An Act of the Scottish Parliament to enable provision to be made for the purpose of promoting regulatory consistency; to make provision in relation to primary authorities; to enable
+			provision to be made, and to make provision, as respects regulatory activities, and offences, relating to the environment; to make provision about regulatory functions relating to marine
+			licensing, planning and street traders' licences; and for connected purposes.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/2</id>
+		<title>Landfill Tax (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/2"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/2/2014-01-21"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/2/2014-01-21/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/2/2014-01-21/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/2/2014-01-21/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/2/2014-01-21/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/2/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-07-03T00:59:59+01:00</updated>
+		<published>2014-01-22T11:54:16.228+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="2"/>
+		<ukm:ISBN Value="9780105902089"/>
+		<ukm:CreationDate Date="2014-01-21"/>
+		<summary>An Act of the Scottish Parliament to make provision about the taxation of disposals to landfill.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/asp/2014/1</id>
+		<title>Victims and Witnesses (Scotland) Act 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/asp/2014/1"/>
+		<link href="http://www.legislation.gov.uk/asp/2014/1/2014-01-18"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/asp/2014/1/2014-01-18/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/asp/2014/1/2014-01-18/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/asp/2014/1/2014-01-18/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/asp/2014/1/2014-01-18/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/asp/2014/1/contents" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-04-04T00:59:59+01:00</updated>
+		<published>2014-01-22T11:33:31.616+01:00</published>
+		<ukm:DocumentMainType Value="ScottishAct"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="1"/>
+		<ukm:ISBN Value="9780105902072"/>
+		<ukm:CreationDate Date="2014-01-17"/>
+		<summary>An Act of the Scottish Parliament to make provision for certain rights and support for victims and witnesses, including provision for implementing Directive 2012/29/EU of the European
+			Parliament and the Council; and to make provision for the establishment of a committee of the Mental Welfare Commission with functions relating to persons who were placed in institutional care
+			as children.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/ssi/2014/218</id>
+		<title>The Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Amendment Order 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/ssi/2014/218"/>
+		<link href="http://www.legislation.gov.uk/ssi/2014/218/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/ssi/2014/218/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/ssi/2014/218/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2014/218/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2014/218/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/ssi/2014/218/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-12T00:59:59+01:00</updated>
+		<published>2014-08-11T11:23:43.705+01:00</published>
+		<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="218"/>
+		<ukm:ISBN Value="9780111024201"/>
+		<ukm:AlternativeNumber Category="C" Value="19"/>
+		<ukm:CreationDate Date="2014-08-07"/>
+		<ukm:Subject Value="CIVIL PARTNERSHIP"/>
+		<ukm:Subject Value="GENDER RECOGNITION"/>
+		<ukm:Subject Value="MARRIAGE"/>
+		<category term="CIVIL PARTNERSHIP"/>
+		<category term="GENDER RECOGNITION"/>
+		<category term="MARRIAGE"/>
+		<summary>This Order amends errors in the saving provisions in, and Schedule to, the Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Order
+			2014.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/uksi/2014/2081</id>
+		<title>The Misuse of Drugs (Amendment No. 2) (England, Wales and Scotland) Regulations 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/uksi/2014/2081"/>
+		<link href="http://www.legislation.gov.uk/uksi/2014/2081/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/uksi/2014/2081/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/uksi/2014/2081/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2014/2081/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2014/2081/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/uksi/2014/2081/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-12T00:59:59+01:00</updated>
+		<published>2014-08-08T11:48:00.417+01:00</published>
+		<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="2081"/>
+		<ukm:ISBN Value="9780111119624"/>
+		<ukm:CreationDate Date="2014-08-03"/>
+		<ukm:Subject Value="DANGEROUS DRUGS, ENGLAND AND WALES"/>
+		<ukm:Subject Value="DANGEROUS DRUGS, SCOTLAND"/>
+		<category term="DANGEROUS DRUGS, ENGLAND AND WALES"/>
+		<category term="DANGEROUS DRUGS, SCOTLAND"/>
+		<summary>These Regulations amend the Misuse of Drugs Regulations 2001 to allow for the provision of aluminium foil by persons employed or engaged in the lawful provision of drug treatment
+			services. Such provision is permitted as part of structured steps to bring individuals into treatment or as part of such treatment. Without this amendment, the provision of foil to drug users
+			would be an offence under section 9A Misuse of Drugs Act 1971.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/ssi/2014/217</id>
+		<title>The Teachers’ Pension Scheme (Scotland) Regulations 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/ssi/2014/217"/>
+		<link href="http://www.legislation.gov.uk/ssi/2014/217/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/ssi/2014/217/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/ssi/2014/217/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2014/217/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2014/217/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/ssi/2014/217/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-08T00:59:59+01:00</updated>
+		<published>2014-08-07T11:56:41.357+01:00</published>
+		<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="217"/>
+		<ukm:ISBN Value="9780111024195"/>
+		<ukm:CreationDate Date="2014-08-01"/>
+		<ukm:Subject Value="PUBLIC SERVICE PENSIONS"/>
+		<category term="PUBLIC SERVICE PENSIONS"/>
+		<summary>These Regulations establish a career average re-valued earnings scheme for the payment of pensions and other benefits to and in respect of teachers in Scotland.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/ssi/2014/214</id>
+		<title>The Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Amendment Regulations 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/ssi/2014/214"/>
+		<link href="http://www.legislation.gov.uk/ssi/2014/214/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/ssi/2014/214/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/ssi/2014/214/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2014/214/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2014/214/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/ssi/2014/214/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-08T00:59:59+01:00</updated>
+		<published>2014-08-01T11:47:44.095+01:00</published>
+		<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="214"/>
+		<ukm:ISBN Value="9780111024188"/>
+		<ukm:CreationDate Date="2014-07-30"/>
+		<ukm:Subject Value="TOWN AND COUNTRY PLANNING"/>
+		<category term="TOWN AND COUNTRY PLANNING"/>
+		<summary>These Regulations amend the Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Regulations 2004 (“the principal Regulations”), which make provision for
+			the payment of fees to planning authorities.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/ssi/2014/213</id>
+		<title>The Food Hygiene and Official Feed and Food Controls (Scotland) Amendment Regulations 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/ssi/2014/213"/>
+		<link href="http://www.legislation.gov.uk/ssi/2014/213/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/ssi/2014/213/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/ssi/2014/213/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2014/213/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2014/213/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/ssi/2014/213/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-08T00:59:59+01:00</updated>
+		<published>2014-07-31T12:14:08.738+01:00</published>
+		<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="213"/>
+		<ukm:ISBN Value="9780111024171"/>
+		<ukm:CreationDate Date="2014-07-29"/>
+		<ukm:Subject Value="FOOD"/>
+		<category term="FOOD"/>
+		<summary>These Regulations implement Commission Regulation (EU) No. 704/2014 amending Commission Regulation (EU) 211/2013 on certification requirements for import into the Union of sprouts and
+			seeds intended for the production of sprouts. They also implement Commission Regulation (EU) No. 579/2014 granting derogation from certain provisions of Annex II to Regulation (EC) No. 852/2004
+			as regards the transport of liquid oils and fats by sea.</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/ssi/2014/210</id>
+		<title>The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 2 and Transitional Provision) Order 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/ssi/2014/210"/>
+		<link href="http://www.legislation.gov.uk/ssi/2014/210/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/ssi/2014/210/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/ssi/2014/210/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2014/210/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2014/210/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/ssi/2014/210/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-08T00:59:59+01:00</updated>
+		<published>2014-07-24T13:13:31.944+01:00</published>
+		<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="210"/>
+		<ukm:ISBN Value="9780111024157"/>
+		<ukm:AlternativeNumber Category="C" Value="17"/>
+		<ukm:CreationDate Date="2014-07-22"/>
+		<ukm:Subject Value="CRIMINAL LAW"/>
+		<category term="CRIMINAL LAW"/>
+		<summary>This Order brings into force, on 13th August 2014, the following sections of the Victims and Witnesses (Scotland) Act 2014 (“the 2014 Act”): sections 2, 6, 8, 23 (except subsections (7)
+			and (14)), 26, 27, 28 and 29 (article 2(1)). Some of the provisions are brought partially into force for restricted purposes only (article 2(2)).</summary>
+	</entry>
+	<entry>
+		<id>http://www.legislation.gov.uk/id/ssi/2014/212</id>
+		<title>The Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Order 2014</title>
+		<link rel="self" href="http://www.legislation.gov.uk/id/ssi/2014/212"/>
+		<link href="http://www.legislation.gov.uk/ssi/2014/212/made"/>
+		<link rel="alternate" type="application/xml" href="http://legislation.data.gov.uk/ssi/2014/212/made/data.xml" title="XML"/>
+		<link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/ssi/2014/212/made/data.rdf" title="RDF/XML"/>
+		<link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2014/212/made/data.htm" title="HTML snippet"/>
+		<link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2014/212/made/data.pdf" title="PDF"/>
+		<link rel="http://purl.org/dc/terms/tableOfContents" type="application/xml" href="http://www.legislation.gov.uk/ssi/2014/212/contents/made" title="Table of Contents"/>
+		<author>
+			<name/>
+		</author>
+		<updated>2014-08-08T00:59:59+01:00</updated>
+		<published>2014-07-24T13:14:01.788+01:00</published>
+		<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+		<ukm:Year Value="2014"/>
+		<ukm:Number Value="212"/>
+		<ukm:ISBN Value="9780111024164"/>
+		<ukm:AlternativeNumber Category="C" Value="18"/>
+		<ukm:CreationDate Date="2014-07-22"/>
+		<ukm:Subject Value="CIVIL PARTNERSHIP"/>
+		<ukm:Subject Value="GENDER RECOGNITION"/>
+		<ukm:Subject Value="MARRIAGE"/>
+		<category term="CIVIL PARTNERSHIP"/>
+		<category term="GENDER RECOGNITION"/>
+		<category term="MARRIAGE"/>
+		<summary>This Order bring into force sections 4(8) to (10), 9, 10, 11(5) and (6), 17, 18(2)(a), 21, 25, 28, 30 and 33 of the Marriage and Civil Partnership (Scotland) Act 2014 (“the 2014
+			Act”).</summary>
+	</entry>
+</feed>

@@ -1,0 +1,83 @@
+{
+    "format": "linked-data-api",
+    "version": "0.2",
+    "result": {
+        "_about": "http://www.legislation.gov.uk/uksi/2014/data.json?view=linked-data&view=linked-data&view=linked-data&view=linked-data&_page=1",
+        "itemsPerPage": 10,
+        "startIndex": 0,
+        "isPartOf": {
+            "_about": "http://www.legislation.gov.uk/uksi/2014?view=linked-data&view=linked-data&view=linked-data&view=linked-data",
+            "hasPart": "http://www.legislation.gov.uk/uksi/2014/data.json?view=linked-data&view=linked-data&view=linked-data&view=linked-data&_page=1",
+            "definition": "http://www.legislation.gov.uk/spec/lda/legislation/legislationList-uksi-year",
+            "type": "http://purl.org/linked-data/api/vocab#List"
+        },
+        "modified": "Monday, 11-Aug-14 11:46:17 UTC",
+        "extendedMetadataVersion": "http://www.legislation.gov.uk/uksi/2014/data.json?view=linked-data&view=linked-data&view=linked-data&view=linked-data&_page=1&_metadata=all%2Cviews%2Cformats%2Cexecution%2Cbindings%2Csite",
+        "items": [
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1975",
+                "number": "1975",
+                "title": "The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1940",
+                "number": "1940",
+                "title": "The English Coast (Isle of Wight) Order 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1924",
+                "number": "1924",
+                "title": "The Public Bodies (Abolition of Food from Britain) Order 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1902",
+                "number": "1902",
+                "title": "The Agriculture (Miscellaneous Revocations) regulations 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1894",
+                "number": "1894",
+                "title": "The Diseases of Swine Regulations 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1855",
+                "number": "1855",
+                "title": "The Food Information Regulations 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1833",
+                "number": "1833",
+                "title": "The Forest Reproductive Material (Great Britain) (Amendment) (England and Scotland) Regulations 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1823",
+                "number": "1823",
+                "title": "The Water Act 2014 (Commencement No. 1) Order 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1258",
+                "number": "1258",
+                "title": "The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014",
+                "year": 2014
+            },
+            {
+                "_about": "http://www.legislation.gov.uk/id/uksi/2014/1240",
+                "number": "1240",
+                "title": "The Welfare of Animals at the Time of Killing Regulations 2014",
+                "year": 2014
+            }
+        ],
+        "type": "http://purl.org/linked-data/api/vocab#Page",
+        "first": "http://www.legislation.gov.uk/uksi/2014/data.json?view=linked-data&view=linked-data&view=linked-data&view=linked-data&_page=1",
+        "next": "http://www.legislation.gov.uk/uksi/2014/data.json?view=linked-data&view=linked-data&view=linked-data&view=linked-data&_page=2",
+        "label": "List UKSI for year"
+    }
+}
